@@ -7,11 +7,4 @@ main_nav: true
 
 # Location
 
-![!Location](/assets/location.jpg)
-
-
-<a href="https://github.com/BangzhuoTongUU/SBW/tree/master/assets/location.png" data-lightbox="location" data-title="Check out the Location">
-  <img src="https://github.com/BangzhuoTongUU/SBW/tree/master/assets/location.png" title="Check out the Location">
-</a>
-
 ![alt text]({{ site.baseurl }}/assets/location.jpg "Location Picture")
