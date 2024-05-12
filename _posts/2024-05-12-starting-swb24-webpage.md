@@ -7,3 +7,6 @@ categories: Webpage
 tags:	webpage building
 cover:  "/assets/instacode.png"
 ---
+
+
+Now we're having our new webpage!
