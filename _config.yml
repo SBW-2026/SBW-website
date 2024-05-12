@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Swedish Bioinformatics Workshop 2024
-subtitle: "Sweden, Uppsala, The Swedish University of Agricultural Sciences, Nov 4-5, 2024"
+subtitle: "Sweden, Uppsala, The Swedish University of Agricultural Sciences, Aula, Nov 4-5, 2024"
 email: bzhuo1995@gmail.com
 name: SBW2024
 description: >
-  Swedish Bioinformatics Workshop 2024 in Uppsala, The Swedish University of Agricultural Sciences, Nov 4-5.
+  Swedish Bioinformatics Workshop 2024 in Uppsala, The Swedish University of Agricultural Sciences, Aula, Nov 4-5.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
