@@ -57,7 +57,7 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: team news
+  - cat: teamNews
     desc: "Posts about team news."
 
 # Social icons and sharing options
