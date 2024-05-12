@@ -7,7 +7,7 @@ main_nav: true
 
 # Location
 
-![Location](assets/location.jpg)
+![!Location](/assets/location.jpg)
 
 
 <a href="https://github.com/BangzhuoTongUU/SBW/tree/master/assets/location.png" data-lightbox="location" data-title="Check out the Location">
