@@ -3,8 +3,8 @@ layout: post
 title:  "Now we're preparing our webpage!"
 date:   2024-05-12 22:32:59
 author: Bangzhuo Tong
-categories: Webpage
-tags:	webpage building
+categories: team news
+tags: webpage building
 cover:  "/assets/instacode.png"
 ---
 
