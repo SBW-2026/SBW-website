@@ -141,9 +141,9 @@ main_nav: true
 
 <div style="display: flex;">
     <div style="flex: 1; padding-right: 10px;">
-        <img src="/assets/SBWUppsala_v4.jpg" alt="Image 1" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/SBWUppsala_v4.jpg" alt="Image 1" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
-        <img src="/assets/SBWUppsala_v4.jpg" alt="Image 2" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/SBWUppsala_v4.jpg" alt="Image 2" style="width: 100%;">
     </div>
 </div>
