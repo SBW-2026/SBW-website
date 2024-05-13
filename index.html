@@ -3,7 +3,6 @@ layout: page
 pagination: 
   enabled: true
 ---
-
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
@@ -12,6 +11,16 @@ pagination:
     </header>
   </div>
 </div>
+
+<head>
+  <style>
+    .center {
+      margin: 0 auto;
+      width: 100%; /* Adjust width as needed */
+      /* border: 1px solid black; Just for demonstration */
+    }
+  </style>
+</head>
 
 <body>
   <div class="center">
