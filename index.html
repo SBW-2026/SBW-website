@@ -1,24 +1,8 @@
 ---
-layout: default
+layout: page
 pagination: 
   enabled: true
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<div class="home">
-  <style>
-    .center {
-      margin: 0 auto;
-      width: 100%; /* Adjust width as needed */
-      /* border: 1px solid black; Just for demonstration */
-    }
-  </style>
-</div>
-</head>
 
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
@@ -45,7 +29,6 @@ pagination:
       <p>For registration please follow this <a href="https://www.google.com">link</a> </p>
   </div>
 </body>
-</html>
 
 
 <!-- <div class="wrapper">
