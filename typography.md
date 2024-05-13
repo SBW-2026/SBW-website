@@ -137,20 +137,13 @@ main_nav: true
 
 <hr>
 
-<h1 id="tables">Tables</h1>
+<h1 id="two column layout">Tables</h1>
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th>
-  </tr>
-  <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr class="even">
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-  <tr>
-    <td>Division 1</td><td>Division 2</td><td>Division 3</td>
-  </tr>
-</table>
+<div style="display: flex;">
+    <div style="flex: 1; padding-right: 10px;">
+        <img src="/assets/SBWUppsala_v4.jpg" alt="Image 1" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <img src="/assets/SBWUppsala_v4.jpg" alt="Image 2" style="width: 100%;">
+    </div>
 </div>
