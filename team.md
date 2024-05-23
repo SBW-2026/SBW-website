@@ -5,17 +5,13 @@ permalink: /team/
 main_nav: true
 ---
 
-# SBW 2024 team
-
-## Team
 Team photo of SBW2024
 
 ![alt text]({{ site.baseurl }}/assets/team/simpsons_team.png "Team photo")
 
-## Team member
-Organizers of SBW2024 (In alphabet order)
+Organizers of SBW2024 (In alphabet order):
 
-### Hommer simpson
+<!-- First member: -->
 <h1 id="two column layout">Homer Jay Simpson</h1>
 
 <div style="display: flex;">
@@ -28,3 +24,8 @@ Organizers of SBW2024 (In alphabet order)
         <img src="{{ site.baseurl }}/assets/team/simpsons_hommer.png" alt="Image" style="width: 100%;">
     </div>
 </div>
+
+<!-- Second member: -->
+<!-- Third member: -->
+<!-- So on... -->
+
