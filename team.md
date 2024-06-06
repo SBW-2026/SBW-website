@@ -24,7 +24,10 @@ Organizers of SBW2024 (In alphabet order):
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
         <p><strong>Anna Darlene van der Heiden </strong> <br>
-        Phd Student at Uppsala University
+        Phd Student at Uppsala University <br>
+        Department of Medical Biochemistry and Microbiology, IMBIM <br>
+        Linkedin: <a href="https://www.linkedin.com/in/advdh/" target="_blank">
+        @Anna Darlene van der Heiden</a>
         </p>
     </div>
 </div>
@@ -40,7 +43,10 @@ Organizers of SBW2024 (In alphabet order):
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
         <p><strong>Bangzhuo Tong </strong> <br>
-        Phd Student at Uppsala University
+        Phd Student at Uppsala University <br>
+        Department of Medical Biochemistry and Microbiology, IMBIM <br>
+        Linkedin: <a href="https://www.linkedin.com/in/bangzhuo-tong-23aa06272/" target="_blank">
+        @Bangzhuo Tong</a>
         </p>
     </div>
 </div>
@@ -74,7 +80,12 @@ Organizers of SBW2024 (In alphabet order):
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
         <p><strong>Nanxing Liu </strong> <br>
-        Phd Student at Swedish University of Agricultural Sciences
+        Phd Student at Swedish University of Agricultural Sciences<br>
+        Department of Animal Biosciences <br>
+        Linkedin: <a href="https://www.linkedin.com/in/nancy-liu-37479b229/" target="_blank">@Nancy Liu</a> <br>
+        Twitter: <a href="https://x.com/NancyLiu456" target="_blank">@NancyLiu456</a> <br>
+
+
         </p>
     </div>
 </div>
@@ -90,7 +101,12 @@ Organizers of SBW2024 (In alphabet order):
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
         <p><strong>Raphaela Pensch</strong> <br>
-        Phd Student at Uppsala University
+        Phd Student at Uppsala University <br>
+        Department of Medical Biochemistry and Microbiology, IMBIM <br>
+        Linkedin: <a href="https://www.linkedin.com/in/rpensch/" target="_blank">@Raphaela Pensch</a> <br>
+        Twitter: <a href="https://x.com/rpensch?t=DG9EAHyuYHD2bC5eMAk-eg&s=09" target="_blank">@rpensch</a> <br>
+
+
         </p>
     </div>
 </div>
