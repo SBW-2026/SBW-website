@@ -34,7 +34,8 @@ Organizers of SBW2024 (In alphabet order):
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
-        <p>Phd Student at Uppsala University
+        <p><strong>Bangzhuo Tong </strong> <br>
+        Phd Student at Uppsala University
         </p>
     </div>
 </div>
