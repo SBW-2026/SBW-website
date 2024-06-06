@@ -12,7 +12,7 @@ main_nav: true
 <table>
   <tr>
     <th>Time</th>
-    <th>Monday, November 4th 2024</th>
+    <th>Monday November 4, 2024</th>
   </tr>
   <tr>
     <td>09:30-10:00</td>
@@ -51,7 +51,7 @@ main_nav: true
 <table>
   <tr>
     <th>Time</th>
-    <th>Tuesday, November 5th 2024</th>
+    <th>Tuesday November 5, 2024</th>
   </tr>
   <tr>
     <td>9:00-11:00</td>
