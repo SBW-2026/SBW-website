@@ -14,7 +14,7 @@ Organizers of SBW2024 (In alphabet order):
 <!-- member: -->
 <!-- <h1 id="two column layout">Anna Darlene van der Heiden</h1>  this is a big title if you want-->
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
     <div style="flex: 1; padding-right: 10px;">
         <!-- Place your text content here -->
         <p> <strong>Anna Darlene van der Heiden </strong> <br>
