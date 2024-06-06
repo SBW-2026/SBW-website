@@ -11,3 +11,6 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/sponsors/Wenner-gren.png "WennerGren Picture")
 
+## [BioNordika]('https://bionordika.se/')
+
+![alt text]({{ site.baseurl }}/assets/sponsors/BioNordika.png "BioNordika Picture")
