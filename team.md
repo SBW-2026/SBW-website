@@ -56,7 +56,9 @@ Organizers of SBW2024 (In alphabet order):
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
         <p><strong>Josefin Bjurling </strong> <br>
-        Phd Student at Uppsala University
+        Phd Student at Uppsala University <br>
+        Department of Immunlogy, Genetics and Pathology<br>
+        Linkedin: <a href="linkedin.com/in/josefin-bjurling-4b53001bb" target="_blank">@Josefin Bjurling</a>
         </p>
     </div>
 </div>
