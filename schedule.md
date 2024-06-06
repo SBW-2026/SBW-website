@@ -7,7 +7,7 @@ main_nav: true
 
 <!-- ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile} -->
 
-<h2>Conference Schedule</h2>
+<h2>Conference Schedule--it is just a test now 24.6.6</h2>
 
 <table>
   <tr>
