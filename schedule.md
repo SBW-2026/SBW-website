@@ -67,11 +67,11 @@ main_nav: true
   </tr>
   <tr>
     <td>14:00-15:30</td>
-    <td>Session 5:<br>Keynote speaker 5<br>Talk 5.1<br>Talk 5.2</td>
+    <td>Session 5:<br>Keynote speaker 5<br>Talk 5.1<br>Talk 5.2<br>Talk 5.3</td>
   </tr>
   <tr>
     <td>15:35-16:00</td>
-    <td>Poster session / fika</td>
+    <td>Poster session / Fika</td>
   </tr>
   <tr>
     <td>16:00-17:00</td>
