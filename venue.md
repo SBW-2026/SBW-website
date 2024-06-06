@@ -7,9 +7,9 @@ main_nav: true
 
 # Location
 
-![alt text]({{ site.baseurl }}/assets/location.jpg "Location Picture")
-
 The SBW will take place in Uppsala, in the Aula of the Swedish University of Agricultural Sciences (SLU). 
+
+![alt text]({{ site.baseurl }}/assets/location.jpg "Location Picture")
 
 # Transport
 
