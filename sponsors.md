@@ -13,4 +13,4 @@ main_nav: true
 
 ## [BioNordika]('https://bionordika.se/')
 
-<img src="{{ site.baseurl }}/assets/sponsors/BioNordika.png" alt="BioNordika Picture" width="200" height="280">
+<img src="{{ site.baseurl }}/assets/sponsors/BioNordika.png" alt="BioNordika Picture" width="200" height="300">
