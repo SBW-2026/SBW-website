@@ -12,16 +12,16 @@ Team photo of SBW2024
 Organizers of SBW2024 (In alphabet order):
 
 <!-- First member: -->
-<h1 id="two column layout">Homer Jay Simpson</h1>
+<h1 id="two column layout">Anna Darlene van der Heiden</h1>
 
 <div style="display: flex;">
     <div style="flex: 1; padding-right: 10px;">
         <!-- Place your text content here -->
-        <p>Homer Jay Simpson (born May 12, 1956) is a man from Springfield. His skill is choking his beloved son.
+        <p>Phd Student at Uppsala University
         </p>
     </div>
     <div style="flex: 1; padding-left: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/simpsons_hommer.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Anna_Darlene_modified.png" alt="Image" style="width: 100%;">
     </div>
 </div>
 
