@@ -12,12 +12,13 @@ Team photo of SBW2024
 Organizers of SBW2024 (In alphabet order):
 
 <!-- First member: -->
-<h1 id="two column layout">Anna Darlene van der Heiden</h1>
+<!-- <h1 id="two column layout">Anna Darlene van der Heiden</h1>  this is a big title if you want-->
 
 <div style="display: flex;">
     <div style="flex: 1; padding-right: 10px;">
         <!-- Place your text content here -->
-        <p>Phd Student at Uppsala University
+        <p> <strong>Anna Darlene van der Heiden </strong> <br>
+         Phd Student at Uppsala University
         </p>
     </div>
     <div style="flex: 0 0 200px; padding-left: 10px;">
@@ -26,7 +27,6 @@ Organizers of SBW2024 (In alphabet order):
 </div>
 
 <!-- Second member: -->
-<h1 id="two column layout">Bangzhuo Tong</h1>
 
 <div style="display: flex;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
