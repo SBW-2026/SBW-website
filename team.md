@@ -20,7 +20,7 @@ Organizers of SBW2024 (In alphabet order):
         <p>Phd Student at Uppsala University
         </p>
     </div>
-    <div style="flex: 0 0 100px; padding-left: 10px;">
+    <div style="flex: 0 0 200px; padding-left: 10px;">
         <img src="{{ site.baseurl }}/assets/team/Anna_Darlene_modified.png" alt="Image" style="width: 100%;">
     </div>
 </div>
@@ -29,7 +29,7 @@ Organizers of SBW2024 (In alphabet order):
 <h1 id="two column layout">Bangzhuo Tong</h1>
 
 <div style="display: flex;">
-    <div style="flex: 0 0 150px; padding-right: 10px;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
         <img src="{{ site.baseurl }}/assets/team/Bangzhuo_tong_modified.png" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
