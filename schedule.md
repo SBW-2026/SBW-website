@@ -55,7 +55,7 @@ main_nav: true
   </tr>
   <tr>
     <td>9:00-11:00</td>
-    <td>Parallel workshop</td>
+    <td>Parallel workshops</td>
   </tr>
   <tr>
     <td>11:15-12:45</td>
