@@ -49,7 +49,7 @@ Organizers of SBW2024 (In alphabet order):
 
 <!--  member: -->
 
-<div style="display: flex;">
+<div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <img src="{{ site.baseurl }}/assets/team/Josefin_modified.png" alt="Image" style="width: 100%;">
     </div>
@@ -64,7 +64,8 @@ Organizers of SBW2024 (In alphabet order):
 <br>
 
 <!-- member: -->
-<div style="display: flex;">
+
+<div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <img src="{{ site.baseurl }}/assets/team/Nanxing_liu_modified.png" alt="Image" style="width: 100%;">
     </div>
@@ -79,7 +80,8 @@ Organizers of SBW2024 (In alphabet order):
 <br>
 
 <!-- member: -->
-<div style="display: flex;">
+
+<div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <img src="{{ site.baseurl }}/assets/team/Raphaela_Pensch_modified.png" alt="Image" style="width: 100%;">
     </div>
