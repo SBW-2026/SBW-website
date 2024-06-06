@@ -54,7 +54,8 @@ Organizers of SBW2024 (In alphabet order):
         </p>
     </div>
 </div>
-
+<br>
+<br>
 <!-- member: -->
 <div style="display: flex;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
