@@ -11,6 +11,12 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/sponsors/Wenner-gren.png "WennerGren Picture")
 
+
+## [NBIS]('https://nbis.se/')
+
+<img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS Picture" width="200" height="300">
+
+
 ## [BioNordika]('https://bionordika.se/')
 
 <img src="{{ site.baseurl }}/assets/sponsors/BioNordika.png" alt="BioNordika Picture" width="200" height="300">
