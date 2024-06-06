@@ -5,9 +5,10 @@ permalink: /team/
 main_nav: true
 ---
 
-Team photo of SBW2024
+Team photo of SBW2024: will come later
 
-![alt text]({{ site.baseurl }}/assets/team/simpsons_team.png "Team photo")
+<!--![alt text]({{ site.baseurl }}/assets/team/simpsons_team.png "Team photo")  
+add picture here when you have-->
 
 Organizers of SBW2024 (In alphabet order):
 
@@ -28,7 +29,7 @@ Organizers of SBW2024 (In alphabet order):
 
 <!-- member: -->
 
-<div style="display: flex;">
+<div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <img src="{{ site.baseurl }}/assets/team/Bangzhuo_tong_modified.png" alt="Image" style="width: 100%;">
     </div>
