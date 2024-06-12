@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/SBWUppsala_v4.jpg"
-logo: "/assets/SBWUppsala_v4.jpg"
+cover: "/assets/SBW2024_logo_pink_final.svg"
+logo:  "/assets/SBWUppsala_v4.jpg"
 
 # Build settings
 markdown: kramdown
