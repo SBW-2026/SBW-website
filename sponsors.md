@@ -11,6 +11,10 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/sponsors/Wenner-gren.png "WennerGren Picture")
 
+## [SLUBI]('https://www.slubi.se/')
+
+<img src="{{ site.baseurl }}/assets/sponsors/SLUBI.png" alt="SLUBI Picture" style="width:230px; height:auto;">
+
 
 ## [NBIS]('https://nbis.se/')
 
