@@ -7,19 +7,29 @@ table {
 }
 
 th {
-  border-bottom: 1px solid darken($base-border-color, 15%);
+  border-bottom: 1px solid darken($base-border-color, 25%);
   font-weight: 600;
-  padding: $small-spacing 0;
+  padding: 8px;
+  padding: $small-spacing 5;
   text-align: left;
+  background-color: lighten($sbw-green, 10%);
 }
 
 td {
   border-bottom: $base-border;
+  padding: 8px;
   padding: $small-spacing 0;
 }
 
-tr,
-td,
+/* Style for odd rows */
+tr:nth-child(odd) {
+  background-color: lighten($base-border-color, 5%);
+  vertical-align: middle;
+}
+
+tr:hover {background-color:darken($base-border-color, 5%);}
+
+td,tr,
 th {
   vertical-align: middle;
 }
