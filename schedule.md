@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conference Schedule
+title: Schedule
 permalink: /schedule/
 main_nav: true
 ---
