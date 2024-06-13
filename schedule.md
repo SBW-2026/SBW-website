@@ -43,10 +43,14 @@ main_nav: true
     <td>Session 3:<br>Keynote speaker 3<br>Talks selected from abstracts.</td>
   </tr>
   <tr>
-    <td>18:00-21:00</td>
-    <td>Social/Dinner</td>
+    <td>17:30</td>
+    <td>Social activity</td>
   </tr>
 </table>
+
+<br>
+ {% include page_divider.html %}
+ <br>
 
 <table>
   <tr>
@@ -82,3 +86,6 @@ main_nav: true
     <td>Closing remarks</td>
   </tr>
 </table>
+
+<br>
+ {% include page_divider.html %}
