@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Schedule
+title: Conference Schedule
 permalink: /schedule/
 main_nav: true
 ---
 
 <!-- ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile} -->
-
-<h2>Conference Schedule</h2>
 
 <table>
   <tr>
