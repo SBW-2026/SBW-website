@@ -42,7 +42,27 @@ p {
   margin: 0 0 $small-spacing;
 }
 
+/* Reset styles for links outside the header and footer */
 a {
+  color: darken($sbw-green, 10%); /* or your preferred default color */
+  text-decoration: underline; /* or none, if you prefer */
+  font-weight: bold; /* Make links bold */
+
+  &:active,
+  &:focus,
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &:active,
+  &:focus {
+    outline: none;
+  }
+}
+
+/* Apply styles only to links within the header and footer */
+header a,
+footer a {
   color: $action-color;
   text-decoration: none;
   // transition: color 0.1s linear;
@@ -59,6 +79,7 @@ a {
     outline: none;
   }
 }
+
 
 hr {
   border-bottom: $base-border;
