@@ -85,6 +85,12 @@ pre code.hljs {
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;
+	  /* Increase container height */
+	  height: 550px; /* Adjust the height as needed */
+
+	  /* Center align the container */
+	  max-width: 1300px; /* Optional: Set a maximum width */
+	  margin: 0 auto;
 	&.has-cover {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
