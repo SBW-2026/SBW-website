@@ -23,4 +23,7 @@ made SBW2024 possible.
   <a href="https://www.medbioinfo.se/">
     <img src="{{ site.baseurl }}/assets/sponsors/MedBioInfo.jpg" alt="MedBioInfo Picture">
   </a>
+    <a href="https://www.visualizeyourscience.com/">
+    <img src="{{ site.baseurl }}/assets/sponsors/visualize_your_science.png" alt="VisualizeYourScience Picture">
+  </a>
 </div>
