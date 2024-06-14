@@ -457,3 +457,21 @@ pre code.hljs {
 		}
 	}
 }
+
+.image-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+	gap: 50px; /* Adjust the gap between items */
+  }
+
+  .image-grid a {
+	display: flex;/* Enables flexbox for the link elements */
+	align-items: center; /* Centers items vertically */
+	justify-content: center; /* Centers items horizontally (optional) */
+  }
+  
+  .image-grid img {
+	width: 100%; /* Ensures images take the full width of their grid cell */
+	height: auto; /* Maintains aspect ratio */
+  }
+  
