@@ -199,6 +199,6 @@ protocols:
 
     twitter_image: "/assets/SBW2024_logo_pink_final.png"
 
-    os_repo: "https://github.com/BangzhuoTongUU/SBW"
+    os_repo: "https://github.com/SBW2024/SBW-website"
     os_rcs_type: "git"
-    os_src: "git@github.com:BangzhuoTongUU/SBW.git"
+    os_src: "git@github.com:SBW2024/SBW-website.git"
