@@ -92,9 +92,9 @@ social:
 
   - name: GitHub
     icon: github
-    username: to_be_changed
-    url: https://github.com/bencentra
-    desc: Fork me on GitHub
+    username: SBW2024
+    url: https://github.com/SBW2024/
+    desc: Github account of SBW2024
     share: false
 
   - name: LinkedIn
