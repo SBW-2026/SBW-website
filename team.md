@@ -103,7 +103,7 @@ Organizers of the SBW2024:
         <p><strong>Marina Mota-Merlo </strong> <br>
         PhD student at Uppsala University<br>
         Department of Cell and Molecular Biology <br>
-        Linkedin: <a href="linkedin.com/in/ marina-mota-merlo-544623170" target="_blank">@Marina Mota-Merlo</a> <br>
+        Linkedin: <a href="https://www.linkedin.com/in/marina-mota-merlo-544623170/" target="_blank">@Marina Mota-Merlo</a> <br>
 
         </p>
     </div>
@@ -151,13 +151,13 @@ Organizers of the SBW2024:
     </div>
 </div>
 
-
+<br>
 
 <!-- member: -->
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Marina Mota-Merlo_modified.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Thomas Simon_modified.png" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
