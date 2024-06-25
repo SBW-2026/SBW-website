@@ -5,15 +5,15 @@ permalink: /schedule/
 main_nav: true
 ---
 
+We are currently planning the sessions and times and will be updating this page with new information. Please check below for a preliminary schedule.
+
 Look forward to exciting sessions in 
 - Evolution
 - Genomics
 - Microbial ecology / Metagenomics
 - Machine learning / AI
 - Tools and Software
-and our wildcard session.
-
-We are currently planning the sessions and times and will be updating this page with new information. Please check below for a preliminary schedule: 
+and more.
 
 <!-- ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile} -->
 
