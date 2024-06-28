@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.sbw2024.org/" # the base hostname & protocol for your site
+url: "https://www.sbw2024.org/" # the base hostname & protocol for your site
 cover: "/assets/Fyrisan_2018.jpg"
 logo:  "/assets/SBW2024_logo_pink_final.png"
 
