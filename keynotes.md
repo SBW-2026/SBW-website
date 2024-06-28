@@ -57,7 +57,7 @@ main_nav: true
 
  <div class="speaker-info">
     <div class="speaker-image">
-        <img src="{{ site.baseurl }}/assets/keynotes/KellySwarts.jpg" alt="Kelly Swarts" style="width: 100%; border-radius: 50%; overflow: hidden;">
+        <img src="{{ site.baseurl }}/assets/keynotes/KellySwarts.jpeg" alt="Kelly Swarts" style="width: 100%; border-radius: 50%; overflow: hidden;">
     </div>
     <div class="speaker-text">
         <p><strong><center><a href="https://www.scilifelab.se/researchers/kelly-swarts/" target="_blank">Kelly Swarts, DDLS fellow, SLU</a></center></strong></p>
