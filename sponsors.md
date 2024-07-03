@@ -15,7 +15,7 @@ made SBW2024 possible.
     <img src="{{ site.baseurl }}/assets/sponsors/SLUBI.png" alt="SLUBI Logo" style="width:230px; height:auto;">
   </a>
   <a href="https://www.embnet.it/">
-    <img src="{{ site.baseurl }}/assets/sponsors/mergerdEMBnetLogoFlatRed.png" alt="SLUBI Logo" style="width:230px; height:auto;">
+    <img src="{{ site.baseurl }}/assets/sponsors/mergerdEMBnetLogoFlatRed.png" alt="SLUBI Logo" style="width:400px; height:auto;">
   </a>
   <a href="https://nbis.se/">
     <img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS Picture" style="width:400px; height:auto;">
