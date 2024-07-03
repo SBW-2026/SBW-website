@@ -41,6 +41,11 @@ Registration for in-person and virtual participation to the SBW2024 is open now!
   </tr>
 </table>
 
+## No-show fees
+Participation in the SBW is free of charge for students and postdocs. However, if you register and do not participate (no-show) your institution will be invoiced 1,000 SEK. Other academic and non-academic participants will be invoiced the registration fee. Cancellation via email to info@sbw2024.org is free until October 21, 2024.
+<br>
+Please note that the SBW cannot invoice individuals.
+
 <br>
  {% include page_divider.html %}
 
