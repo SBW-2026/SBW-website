@@ -25,7 +25,7 @@ Registration for in-person and virtual participation to the SBW2024 is open now!
     <th>After August 18, 2024</th>
   </tr>
   <tr>
-    <td>Student (*)/Postdoc at a Swedish University</td>
+    <td>Student (*) /Postdoc at a Swedish University</td>
     <td>Free</td>
     <td>Free</td>
   </tr>
