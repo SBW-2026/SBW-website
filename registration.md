@@ -41,7 +41,7 @@ Registration for in-person and virtual participation to the SBW2024 is open now!
   </tr>
 </table>
 
-(*) Students include PhD students and Master students who are currently in their final year working on their thesis project. 
+(*) Students include all PhD students as well as Master students who are currently in their final year working on their thesis project. 
 
 ## No-show fees
 <p>Participation in the SBW is free of charge for students and postdocs at Swedish Universities. However, if you register as an on-site participant and do not attend the event (no-show) your institution will be invoiced <strong>1,000 SEK</strong>. Other academic and non-academic participants will be invoiced the registration fee. Please provide a valid invoice address upon registration including reference codes to the paying project. Cancellation via email to <a href="mailto:info@sbw2024.org" itemprop="email">info@sbw2024.org</a> is free until <u>October 21, 2024</u>.</p>
