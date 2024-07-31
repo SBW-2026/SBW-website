@@ -14,7 +14,7 @@ Abstract submission for poster and oral presentations at the SBW 2024 is open no
 
 # Registration
 
-Registration for in-person and virtual participation to the SBW2024 is open now! Please <b>[click here](https://docs.google.com/forms/d/e/1FAIpQLScRN2BbuBoD4W1o6xO13wd4SE38HT3Pwr0wzOF594hsn8IAPQ/viewform?usp=sharing)</b> to register. The last day to register is October 1, 2024. 
+Registration for in-person (see table beblow for detailed registration fees) and virtual participation (virtual participation is free of charge) to the SBW2024 is open now! Please <b>[click here](https://docs.google.com/forms/d/e/1FAIpQLScRN2BbuBoD4W1o6xO13wd4SE38HT3Pwr0wzOF594hsn8IAPQ/viewform?usp=sharing)</b> to register. The last day to register is October 1, 2024. 
 
 ## Registration fees
 
@@ -44,6 +44,7 @@ Registration for in-person and virtual participation to the SBW2024 is open now!
 (*) Students include all PhD students as well as Master students who are currently in their final year working on their thesis project. 
 
 ## No-show fees
+
 <p>Participation in the SBW is free of charge for students and postdocs at Swedish Universities. However, if you register as an on-site participant and do not attend the event (no-show) your institution will be invoiced <strong>1,000 SEK</strong>. Other academic and non-academic participants will be invoiced the registration fee. Please provide a valid invoice address upon registration including reference codes to the paying project. Cancellation via email to <a href="mailto:info@sbw2024.org" itemprop="email">info@sbw2024.org</a> is free until <u>October 21, 2024</u>.</p>
 
 <p>Please note that the SBW cannot invoice individuals.</p>
