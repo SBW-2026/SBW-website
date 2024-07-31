@@ -67,7 +67,7 @@ and more.
   </tr>
   <tr>
     <td>9:00-11:00</td>
-    <td>Parallel workshops TBA</td>
+    <td>Parallel workshops:<br>1. Data management LEGO workshop<br>2. Visualize your science</td>
   </tr>
    <tr>
     <td>11:00-11:30</td>
