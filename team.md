@@ -24,7 +24,7 @@ Organizers of the SBW2024:
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
         <p><strong>Amrei Binzer-Panchal </strong> <br>
-        Bioinformatician and head of SLU's bioinformatics infrastructure <br>
+        Bioinformatician and head of SLU's bioinformatics infrastructure. <br>
         Swedish University of Agricultural Sciences <br>
         GitHub: <a href="https://github.com/amrei-bp" target="_blank">
         amrei-bp</a>
