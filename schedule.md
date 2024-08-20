@@ -67,7 +67,7 @@ and more.
   </tr>
   <tr>
     <td>9:00-11:00</td>
-    <td>Parallel workshops:<br>1. Data management LEGO workshop<br>2. Visualize your science<br>More workshops to be announced</td>
+    <td>Parallel workshops:<br>1. Data management LEGO workshop<br>2. Visualize your science<br>3. Introduction to Nextflow<br>More workshops to be announced</td>
   </tr>
    <tr>
     <td>11:00-11:30</td>
