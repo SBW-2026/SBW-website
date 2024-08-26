@@ -5,6 +5,16 @@ permalink: /schedule/
 main_nav: true
 ---
 
+We are currently planning the sessions and times and will be updating this page with new information. Please check below for a preliminary schedule.
+
+Look forward to exciting sessions in 
+- Evolution
+- Genomics
+- Microbial ecology / Metagenomics
+- Machine learning / AI
+- Tools and Software
+and more.
+
 <!-- ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile} -->
 
 <table>
@@ -13,7 +23,7 @@ main_nav: true
     <th>Monday November 4, 2024</th>
   </tr>
   <tr>
-    <td>09:30-10:00</td>
+    <td>09:00-10:00</td>
     <td>Registration / Coffee</td>
   </tr>
   <tr>
@@ -57,14 +67,18 @@ main_nav: true
   </tr>
   <tr>
     <td>9:00-11:00</td>
-    <td>Parallel workshops</td>
+    <td>Parallel workshops:<br>1. Data management LEGO workshop<br>2. Visualize your science<br>3. Introduction to Nextflow<br>More workshops to be announced</td>
+  </tr>
+   <tr>
+    <td>11:00-11:30</td>
+    <td>Fika</td>
   </tr>
   <tr>
-    <td>11:15-12:45</td>
+    <td>11:30-13:00</td>
     <td>Session 4:<br>Keynote speaker 4<br>Talks selected from abstracts.</td>
   </tr>
   <tr>
-    <td>12:45-14:00</td>
+    <td>13:00-14:00</td>
     <td>Lunch break</td>
   </tr>
   <tr>

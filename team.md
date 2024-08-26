@@ -24,7 +24,7 @@ Organizers of the SBW2024:
     <div style="flex: 1; padding-left: 10px;">
         <!-- Place your text content here -->
         <p><strong>Amrei Binzer-Panchal </strong> <br>
-        Bioinformatician and head of SLU's bioinformatics infrastructure <br>
+        Bioinformatician and head of SLU's bioinformatics infrastructure. <br>
         Swedish University of Agricultural Sciences <br>
         GitHub: <a href="https://github.com/amrei-bp" target="_blank">
         amrei-bp</a>
@@ -91,6 +91,26 @@ Organizers of the SBW2024:
 
 <br>
 
+
+<!-- member: -->
+
+<div style="display: flex;align-items: center;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
+        <img src="{{ site.baseurl }}/assets/team/Marina Mota-Merlo_modified.png" alt="Image" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <!-- Place your text content here -->
+        <p><strong>Marina Mota-Merlo </strong> <br>
+        PhD student at Uppsala University<br>
+        Department of Cell and Molecular Biology <br>
+        Linkedin: <a href="https://www.linkedin.com/in/marina-mota-merlo-544623170/" target="_blank">@Marina Mota-Merlo</a> <br>
+
+        </p>
+    </div>
+</div>
+
+<br>
+
 <!-- member: -->
 
 <div style="display: flex;align-items: center;">
@@ -131,4 +151,43 @@ Organizers of the SBW2024:
     </div>
 </div>
 
+<br>
 
+<!-- member: -->
+
+<div style="display: flex;align-items: center;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
+        <img src="{{ site.baseurl }}/assets/team/Thomas Simon_modified.png" alt="Image" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <!-- Place your text content here -->
+        <p><strong>Thomas Simon </strong> <br>
+        PhD student at the Swedish University of Agriculture Sciences<br>
+        Department of Animal Biosciences <br>
+        Linkedin: <a href="https://www.linkedin.com/in/thomas-simon-098170271/" target="_blank">@Thomas Simon</a> <br>
+        
+        </p>
+    </div>
+</div>
+
+<br>
+
+<!-- member: -->
+
+<div style="display: flex;align-items: center;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
+        <img src="{{ site.baseurl }}/assets/team/zelia bontemps_modified.png" alt="Image" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <!-- Place your text content here -->
+        <p><strong> Zélia Bontemps </strong> <br>
+        Post-doctoral researcher at Uppsala University<br>
+        Department of Medical Biochemistry and Microbiology, IMBIM <br>
+        Linkedin: <a href="https://www.linkedin.com/in/z%C3%A9lia-bontemps-phd-466b3b1b7/" target="_blank">@Zélia Bontempsn</a> <br>
+        GitHub: <a href="https://github.com/LascauxZelia" target="_blank">LascauxZelia</a>
+        Twitter: <a href="https://x.com/zeliabontemps" target="_blank">@ZeliaBontemps</a> <br>
+
+
+        </p>
+    </div>
+</div>
