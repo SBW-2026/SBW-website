@@ -171,3 +171,23 @@ Organizers of the SBW2024:
 </div>
 
 <br>
+
+<!-- member: -->
+
+<div style="display: flex;align-items: center;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
+        <img src="{{ site.baseurl }}/assets/team/zelia bontemps_modified.png" alt="Image" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <!-- Place your text content here -->
+        <p><strong> Zélia Bontemps </strong> <br>
+        Post-doctoral researcher at Uppsala University<br>
+        Department of Medical Biochemistry and Microbiology, IMBIM <br>
+        Linkedin: <a href="https://www.linkedin.com/in/z%C3%A9lia-bontemps-phd-466b3b1b7/" target="_blank">@Zélia Bontempsn</a> <br>
+        GitHub: <a href="https://github.com/LascauxZelia" target="_blank">LascauxZelia</a>
+        Twitter: <a href="https://x.com/zeliabontemps" target="_blank">@ZeliaBontemps</a> <br>
+
+
+        </p>
+    </div>
+</div>

@@ -41,4 +41,7 @@ made SBW2024 possible.
   <a href="https://www.illumina.com/">
   <img src="{{ site.baseurl }}/assets/sponsors/illumina_logo.png" alt="Illumina">
   </a>
+  <a href="https://www.pixelgen.com/">
+  <img src="{{ site.baseurl }}/assets/sponsors/pixelgen.png" alt="Pixelgen">
+  </a>
 </div>
