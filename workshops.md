@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops
-permalink: /schedule/
+permalink: /workshops/
 main_nav: true
 ---
 
