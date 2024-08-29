@@ -89,12 +89,12 @@ pre code.hljs {
 	  height: 550px; /* Adjust the height as needed */
 
 	  /* Center align the container */
-	  max-width: 1700px; /* Optional: Set a maximum width */
+	  max-width: 1500px; /* Optional: Set a maximum width */
 	  margin: 0 auto;
 	&.has-cover {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
-		background-position: 50% 50%;
+		background-position: 70% 70%;
 		background-size: cover;
 		.title {
 			font-size: modular-scale(6);
