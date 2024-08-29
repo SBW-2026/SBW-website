@@ -20,6 +20,9 @@ made SBW2024 possible.
   <a href="https://nbis.se/">
     <img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS Picture" style="width:400px; height:auto;">
   </a>
+  <a href="https://slu.se/">
+    <img src="{{ site.baseurl }}/assets/sponsors/slu.png" alt="SLU Picture" style="width:400px; height:auto;">
+  </a>
   <a href="https://bionordika.se/">
     <img src="{{ site.baseurl }}/assets/sponsors/BioNordika.png" alt="BioNordika Picture">
   </a>
