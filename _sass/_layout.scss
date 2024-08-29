@@ -121,7 +121,9 @@ pre code.hljs {
 .navigation {
 	box-shadow: 0 2px $highlight-color;
 	padding: 0 1em;
-	margin: 0;
+	width: 100%;
+    min-width: 1200px; /* Adjust based on the total width of the menu items */
+	margin: 0 auto;
 	// Remove this to make header scrollable again
 	position: fixed;
 	top: 0;
