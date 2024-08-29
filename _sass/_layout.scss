@@ -145,7 +145,6 @@ pre code.hljs {
   }
   // Nav menu
   .navigation-wrapper {
-	max-width: 1300px;
   	@include outer-container;
     @include clearfix;
     position: relative;
