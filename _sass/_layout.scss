@@ -89,12 +89,12 @@ pre code.hljs {
 	  height: 550px; /* Adjust the height as needed */
 
 	  /* Center align the container */
-	  max-width: 1600px; /* Optional: Set a maximum width */
+	  max-width: 1500px; /* Optional: Set a maximum width */
 	  margin: 0 auto;
 	&.has-cover {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
-		background-position: 70% 70%;
+		background-position: 50% 50%;
 		background-size: cover;
 		.title {
 			font-size: modular-scale(6);
@@ -127,6 +127,7 @@ pre code.hljs {
 	top: 0;
 	left: 0;
 	right: 0;
+	width: 80%;
 	background: $white;
 	z-index: 1;
 	/*
@@ -332,13 +333,13 @@ pre code.hljs {
 			width: auto;
 			.prev-post {
 				display: block;
-				width: 70%;
+				width: 50%;
 				float: left;
 				margin: 1em 0;
 			}
 			.next-post {
 				display: block;
-				width: 70%;
+				width: 50%;
 				float: left;
 				margin: 1em 0;
 				text-align: right;
