@@ -41,5 +41,15 @@ You [the participants] will have opportunity to discuss aspects of data manageme
     alt="VisualizeYourScience Picture">
 </a>
 
-<p>Are you looking to improve your science communication skills? The team at Visualize your Science offers a workshop in graphic design tailored for PhD students and researchers. The workshop gives a taste of their PhD courses designed to improve researchers skills in visually communicating their research. Read more about the content of their courses here. 
+<p>Are you looking to improve your science communication skills? The team at Visualize your Science offers a workshop in graphic design tailored for PhD students and researchers. The workshop gives a taste of their PhD courses designed to improve researchers skills in visually communicating their research. Read more about the content of their courses [here](https://www.visualizeyourscience.com/home). 
 </p>
+
+<br>
+ {% include page_divider.html %}
+<br>
+
+A workshop provided by sciLifeLab will be announced soon...
+
+<a href="https://www.scilifelab.se/">
+  <img src="{{ site.baseurl }}/assets/sponsors/SciLifeLab_Logotype_Green_POS.png" alt="SciLifeLab">
+</a>
