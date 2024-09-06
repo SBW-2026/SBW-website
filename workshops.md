@@ -41,7 +41,20 @@ You [the participants] will have opportunity to discuss aspects of data manageme
     alt="VisualizeYourScience Picture">
 </a>
 
-<p>Are you looking to improve your science communication skills? The team at Visualize your Science offers a workshop in graphic design tailored for PhD students and researchers. The workshop gives a taste of their PhD courses designed to improve researchers skills in visually communicating their research. Read more about the content of their courses <a href="https://www.visualizeyourscience.com/home">here</a> 
+<p>
+This workshop would be given by Andreas Dahlin - Founder of Visualize Your Science
+</p>
+
+<p style="font-style: italic;">"We all do excellent research that deserves to be presented in the best possible way. We are all good at writing and discussing our findings, but what about making diagrams, illustrations, and result charts? Using clear, crisp, and pedagogic images is one of the most powerful methods of explaining your research."
+</p>
+ 
+<p>
+In this lecture, Andreas will share his knowledge of making scientific drawings and answer the following questions:
+ 
+1. How do I draw?
+2. What to draw?
+3. How can I make my images scientifically credible?
+4: How do I ensure my images communicate what I want them to communicate?
 </p>
 
 <br>
