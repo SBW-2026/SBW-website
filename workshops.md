@@ -35,7 +35,7 @@ You [the participants] will have opportunity to discuss aspects of data manageme
  {% include page_divider.html %}
 <br>
 
-# Visualize your Science
+# Improve your skills in how to Visualize your Science
 <a href="https://www.visualizeyourscience.com/">
     <img src="{{ site.baseurl }}/assets/sponsors/visualize_your_science.png" style="width: 50%;" 
     alt="VisualizeYourScience Picture">
