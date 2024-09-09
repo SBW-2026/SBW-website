@@ -61,8 +61,12 @@ In this lecture, Andreas will share his knowledge of making scientific drawings 
  {% include page_divider.html %}
 <br>
 
-A workshop provided by sciLifeLab will be announced soon...
+# Packaging and sharing data science applications as Docker container images
 
 <a href="https://www.scilifelab.se/">
   <img src="{{ site.baseurl }}/assets/sponsors/SciLifeLab_Logotype_Green_POS.png" alt="SciLifeLab">
 </a>
+
+<p>
+This workshop is aimed at researchers who want to share data science applications such as apps built with R Shiny, Plotly Dash, Gradio, Streamlit etc. publicly or with colleagues. Docker container images are a powerful tool for packaging and sharing applications and analyses widely used in both industry and academia. During the workshop we will first present the basics of Docker and how to build Docker container images. Building on this knowledge participants will then carry out hands-on exercises on their own laptops while we will be available to help. Finally, we will also demonstrate how to publish applications packaged as Docker images on <a href="https://serve.scilifelab.se"> <p style="font-style: italic;"> SciLifeLab Serve </p> </a> (https://serve.scilifelab.se) and make them available on the web with a URL (for example, to be used in research papers or other output). <p style="font-style: italic;"> SciLifeLab Serve </p> is a service available free of charge to all life science researchers in Sweden. The participants are welcome to bring their own data science applications, and we can help packaging them on the spot.
+</p>
