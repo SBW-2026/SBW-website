@@ -30,7 +30,7 @@ You [the participants] will have opportunity to discuss aspects of data manageme
 
 <p><a href="https://github.com/nextflow-io/nextflow">Nextflow</a> is an open-source workflow manager that helps to analyze large datasets in a portable and reproducible manner. It is an easy way to parallelize and connect commonly available bioinformatic tools to build reusable pipelines. This is a workshop for those who are completely new to Nextflow and follows the <a href="https://training.nextflow.io/hello_nextflow/">“Hello Nextflow” training</a> designed by Seqera. Some basic familiarity with the command line, and common file formats is assumed.</p>
 
-## Objectives
+### Objectives
 <p>In this workshop, you will learn foundational concepts for building pipelines using Nextflow.
 By the end of this workshop you will be able to:
 <ul>
@@ -41,11 +41,11 @@ By the end of this workshop you will be able to:
 <li>Troubleshoot basic issues</li>
 </ul></p>
 
-## Prerequisites
-<ul>
+### Prerequisites
+<p><ul>
 <li>A GitHub account</li>
 <li>Experience with command line</li>  
-</p>
+</ul></p>
 
 <br>
  {% include page_divider.html %}
