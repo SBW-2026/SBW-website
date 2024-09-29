@@ -19,7 +19,7 @@ and more.
 
 <table>
   <tr>
-    <th>Time</th>
+    <th style="width:30%">Time</th>
     <th>Monday November 4, 2024</th>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ and more.
   </tr>
   <tr>
     <td>10:15-11:45</td>
-    <td>Session 1:<br><strong>Jens Bast - The secrets of life without sex: an oribatid mite perspective</strong><br>Talks selected from abstracts.</td>
+    <td><strong>Session Evolution:</strong><br><strong>Keynote Jens Bast</strong>, The secrets of life without sex: an oribatid mite perspective<br>Talks selected from abstracts.</td>
   </tr>
   <tr>
     <td>11:45-13:00</td>
