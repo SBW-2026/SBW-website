@@ -7,19 +7,11 @@ main_nav: true
 
 We are currently planning the sessions and times and will be updating this page with new information. Please check below for a preliminary schedule.
 
-Look forward to exciting sessions in 
-- Evolution
-- Genomics
-- Microbial ecology / Metagenomics
-- Machine learning / AI
-- Tools and Software
-and more.
-
 <!-- ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile} -->
 
 <table>
   <tr>
-    <th style="width:30%">Time</th>
+    <th style="width:20%">Time</th>
     <th>Monday November 4, 2024</th>
   </tr>
   <tr>
@@ -39,16 +31,17 @@ and more.
     <td>Lunch break</td>
   </tr>
   <tr>
-    <td>13:00-14:30</td>
-    <td>Session 2:<br>Keynote speaker 2<br>Talks selected from abstracts.</td>
+    <td>13:00-15:00</td>
+    <td><strong>Session Machine Learning and Artificial Intelligence:</strong><br>Peetra Magnusson, The research school of the SciLifeLab & Wallenberg national program for Data-Driven Life Science (DDLS)<br><strong>Keynote TBA</strong><br>Talks selected from abstracts.</td>
   </tr>
   <tr>
-    <td>14:30-15:30</td>
-    <td>Poster session / Fika</td>
+    <td>15:00-16:00</td>
+    <td>Poster session and Fika</td>
   </tr>
   <tr>
-    <td>15:30-17:00</td>
-    <td>Session 3:<br>Keynote speaker 3<br>Talks selected from abstracts.</td>
+    <td>16:00-17:30</td>
+    <td><strong>Session Genomics:</strong><br><strong>Keynote Kelly Swarts</strong>, Climate adaptation from longitudinal growth observations in natural forest trees
+<br>Talks selected from abstracts.</td>
   </tr>
   <tr>
     <td>17:30</td>
@@ -62,11 +55,11 @@ and more.
 
 <table>
   <tr>
-    <th>Time</th>
+    <th style="width:20%">Time</th>
     <th>Tuesday November 5, 2024</th>
   </tr>
   <tr>
-    <td>9:00-11:00</td>
+    <td>8:00/9:00-11:00</td>
     <td>Parallel workshops:<br>1. Data management LEGO workshop<br>2. Improve your skills in how to Visualize your Science<br>3. Introduction to Nextflow<br>4. Packaging and sharing data science applications as Docker container images</td>
   </tr>
    <tr>
@@ -75,23 +68,24 @@ and more.
   </tr>
   <tr>
     <td>11:30-13:00</td>
-    <td>Session 4:<br>Keynote speaker 4<br>Talks selected from abstracts.</td>
+    <td><strong>Session Metagenomics:</strong><br><strong>Keynote Laura Caroll</strong>, Data-driven methods for microbial secondary metabolite discovery
+<br>Talks selected from abstracts.</td>
   </tr>
   <tr>
     <td>13:00-14:00</td>
     <td>Lunch break</td>
   </tr>
   <tr>
-    <td>14:00-15:30</td>
-    <td>Session 5:<br>Keynote speaker 5<br>Talks selected from abstracts.</td>
+    <td>14:00-15:00</td>
+    <td><strong>Session Tools and Software:</strong><br>Talks selected from abstracts.</td>
   </tr>
   <tr>
-    <td>15:35-16:00</td>
-    <td>Poster session / Fika</td>
+    <td>15:00-15:30</td>
+    <td>Fika</td>
   </tr>
   <tr>
-    <td>16:00-17:00</td>
-    <td>Session 6:<br>Keynote speaker 6<br>Talks selected from abstracts.</td>
+    <td>15:30-17:00</td>
+    <td><strong>Session Tools and Software:</strong><br><strong>Keynote Phil Ewels</strong>, From Bench to Big Data: What's new with MultiQC and Nextflow<br>Talks selected from abstracts.</td>
   </tr>
   <tr>
     <td>17:00-17:15</td>
