@@ -32,7 +32,7 @@ and more.
   </tr>
   <tr>
     <td>10:15-11:45</td>
-    <td>Session 1:<br>Keynote speaker 1<br>Talks selected from abstracts.</td>
+    <td>Session 1:<br><strong>Jens Bast - The secrets of life without sex: an oribatid mite perspective</strong><br>Talks selected from abstracts.</td>
   </tr>
   <tr>
     <td>11:45-13:00</td>
