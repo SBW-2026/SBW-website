@@ -42,7 +42,7 @@ made SBW2024 possible.
     <img src="{{ site.baseurl }}/assets/sponsors/visualize_your_science.png" alt="VisualizeYourScience Picture">
   </a>
   <a href="https://www.nordic-compbio.org/">
-  <img src="{{ site.baseurl }}/assets/sponsors/NordicCompBio.png" alt="NordicCompBio">
+  <img src="{{ site.baseurl }}/assets/sponsors/NCBlogo2022_white_blue.png" alt="NordicCompBio">
   </a>
   <a href="https://nf-co.re/">
   <img src="{{ site.baseurl }}/assets/sponsors/nf-core.png" alt="nf-core">
