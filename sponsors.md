@@ -8,11 +8,20 @@ main_nav: true
 Here you can see a list of <b>sponsors and other funding sources</b> that 
 made SBW2024 possible.
 
-[![alt text]({{ site.baseurl }}/assets/sponsors/Wenner-gren.png "WennerGren Picture")](https://www.swgc.org/)
+<!-- [![alt text]({{ site.baseurl }}/assets/sponsors/Wenner-gren.png "WennerGren Picture")](https://www.swgc.org/) -->
 
 <div class="image-grid">
+  <a href="https://www.swgc.org/">
+  <img src="{{ site.baseurl }}/assets/sponsors/Wenner-gren.png" alt="WennerGren Picture" style="width:230px; height:auto;">
+  </a>
   <a href="https://www.slubi.se/">
     <img src="{{ site.baseurl }}/assets/sponsors/SLUBI.png" alt="SLUBI Logo" style="width:230px; height:auto;">
+  </a>
+  <a href="https://www.scilifelab.se/">
+  <img src="{{ site.baseurl }}/assets/sponsors/SciLifeLab_Logotype_Green_POS.png" alt="SciLifeLab">
+  </a>
+  <a href="https://www.pixelgen.com/">
+  <img src="{{ site.baseurl }}/assets/sponsors/pixelgen.png" alt="Pixelgen">
   </a>
   <a href="https://www.embnet.it/">
     <img src="{{ site.baseurl }}/assets/sponsors/mergerdEMBnetLogoFlatRed.png" alt="SLUBI Logo" style="width:400px; height:auto;">
@@ -38,13 +47,7 @@ made SBW2024 possible.
   <a href="https://nf-co.re/">
   <img src="{{ site.baseurl }}/assets/sponsors/nf-core.png" alt="nf-core">
   </a>
-  <a href="https://www.scilifelab.se/">
-  <img src="{{ site.baseurl }}/assets/sponsors/SciLifeLab_Logotype_Green_POS.png" alt="SciLifeLab">
-  </a>
   <a href="https://www.illumina.com/">
   <img src="{{ site.baseurl }}/assets/sponsors/illumina_logo.png" alt="Illumina">
-  </a>
-  <a href="https://www.pixelgen.com/">
-  <img src="{{ site.baseurl }}/assets/sponsors/pixelgen.png" alt="Pixelgen">
   </a>
 </div>
