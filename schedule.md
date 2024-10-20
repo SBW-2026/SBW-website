@@ -84,7 +84,7 @@ We are currently planning the sessions and times and will be updating this page 
     <td>Poster session and exhibition with fika</td>
   </tr>
   <tr>
-    <td></td></td>
+    <td></td>
     <td><strong>Session Machine Learning and Artificial Intelligence</strong> - Chair: Gabriele Ponzatti</td>
   </tr>
   <tr>
