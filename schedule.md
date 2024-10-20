@@ -60,7 +60,7 @@ We are currently planning the sessions and times and will be updating this page 
   </tr>
     <tr>
     <td>13:15-13:30</td>
-    <td>Anna Johansson - NBIS - A national bioinformatics infrastructure at a University near you (NBIS)</td>
+    <td>Anna Johansson, NBIS - A national bioinformatics infrastructure at a University near you (NBIS)</td>
   </tr>
   <tr>
     <td>13:30-14:00</td>
