@@ -68,7 +68,7 @@ We are currently planning the sessions and times and will be updating this page 
   </tr>
   <tr>
     <td>14:00-14:15</td>
-    <td>Olga Krail, Molecular and pharmacological profiling of pediatric B-cell precursor acute lymphoblastic leukemia</td>
+    <td>Olga Krali, Molecular and pharmacological profiling of pediatric B-cell precursor acute lymphoblastic leukemia</td>
   </tr>
   <tr>
     <td>14:15-14:30</td>
