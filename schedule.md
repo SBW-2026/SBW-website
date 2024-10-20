@@ -16,7 +16,7 @@ We are currently planning the sessions and times and will be updating this page 
   </tr>
   <tr>
     <td>09:30-10:00</td>
-    <td>Registration / Coffee</td>
+    <td>Registration and coffee</td>
   </tr>
   <tr>
     <td>10:00-10:15</td>
@@ -44,11 +44,11 @@ We are currently planning the sessions and times and will be updating this page 
   </tr>
   <tr>
     <td>11:30-11:45</td>
-    <td>EMBnet – The Global Bioinformatics Network</td>
+    <td>EMBnet - The Global Bioinformatics Network</td>
   </tr>
   <tr>
     <td>11:45-13:00</td>
-    <td>Lunch break</td>
+    <td>Lunch</td>
   </tr>
   <tr>
     <td></td>
@@ -78,7 +78,6 @@ We are currently planning the sessions and times and will be updating this page 
     <td>14:30-14:45</td>
     <td>Michael Landi, Genome-wide comparison reveals large structural variants in the cassava landraces</td>
   </tr>
-  
   <tr>
     <td>14:45-16:00</td>
     <td>Poster session and exhibition with fika</td>
@@ -164,7 +163,7 @@ We are currently planning the sessions and times and will be updating this page 
   </tr>
   <tr>
     <td>12:45-14:00</td>
-    <td>Lunch break</td>
+    <td>Lunch</td>
   </tr>
   <tr>
     <td></td>
