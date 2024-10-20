@@ -108,7 +108,6 @@ We are currently planning the sessions and times and will be updating this page 
   </tr>
 </table>
 
-<br>
  {% include page_divider.html %}
  <br>
 
