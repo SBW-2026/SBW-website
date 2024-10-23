@@ -7,7 +7,7 @@ main_nav: true
 
 # Abstract submission
 
-The abstract submission has been closed. Please, don't forget to register for the conference below.
+The abstract submission has been closed.
 
 <br>
  {% include page_divider.html %}
