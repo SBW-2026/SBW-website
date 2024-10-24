@@ -118,7 +118,7 @@ We are currently planning the sessions and times and will be updating this page 
   <tr>
     <th>16:00-17:15</th>
     <th><strong>Session Machine Learning and Artificial Intelligence</strong></th>
-    <th>Gabriele Pozatti</th>
+    <th>Gabriele Pozzati</th>
   </tr>
   <tr>
     <td>16:00-16:30</td>
