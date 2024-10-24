@@ -122,8 +122,8 @@ We are currently planning the sessions and times and will be updating this page 
   </tr>
   <tr>
     <td>16:00-16:30</td>
-    <td><i>TBA</i></td>
-    <td><strong>Keynote Anton Feenstras</strong></td>
+    <td><i>Ensemble net and Protein Embeddings generalise Protein Interface Prediction beyond Homology</i></td>
+    <td><strong>Keynote Anton Feenstra</strong></td>
   </tr>
   <tr>
     <td>16:30-16:45</td>
