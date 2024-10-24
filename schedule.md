@@ -11,100 +11,144 @@ We are currently planning the sessions and times and will be updating this page 
 
 <table>
   <tr>
-    <th style="width:20%">Time</th>
-    <th>Monday November 4, 2024</th>
+    <th style="width:20%;background-color:white;color:black">Day 1</th>
+    <th style="background-color:white;color:black">Monday November 4, 2024</th>
+    <th style="width:37%;background-color:white"></th>
+  </tr>
+  <tr>
+    <th style="background-color:#96435A">Time</th>
+    <th style="background-color:#96435A">Activity</th>
+    <th style="background-color:#96435A">Presenters/chairs</th>
   </tr>
   <tr>
     <td>09:30-10:00</td>
     <td>Registration and coffee</td>
+    <td></td>
   </tr>
   <tr>
     <td>10:00-10:15</td>
     <td>Opening remarks</td>
+    <td>Dries Boers</td>
   </tr>
   <tr>
-    <td></td>
-    <td><strong>Session Evolution</strong> -  Chairs: Milena Trabert and Konstantinos Papachristos</td>
+    <th>10:15-11:45</th>
+    <th><strong>Session Evolution</strong></th>
+    <th>Milena Trabert and Konstantinos Papachristos</th>
   </tr>
   <tr>
     <td>10:15-10:45</td>
-    <td><strong>Keynote Jens Bast</strong>, The secrets of life without sex: an oribatid mite perspective</td>
+    <td><i>The secrets of life without sex: an oribatid mite perspective</i></td>
+    <td><strong>Keynote Jens Bast</strong></td>
   </tr>
   <tr>
     <td>10:45-11:00</td>
-    <td>Alejandro Jiménez-González, The dynamic evolution of the heme biosynthesis in Planctomycetota bacteria</td>
+    <td><i>The dynamic evolution of the heme biosynthesis in Planctomycetota bacteria</i></td>
+    <td>Alejandro Jiménez-González</td>
   </tr>
   <tr>
     <td>11:00-11:15</td>
-    <td>Fahime Mohamadnejad Sangdehi, Exceptional genetic variation at MHC class II genes in Atlantic herring unveiled through long-read sequencing</td>
+    <td><i>Exceptional genetic variation at MHC class II genes in Atlantic herring unveiled through long-read sequencing</i></td>
+    <td>Fahime Mohamadnejad Sangdehi</td>
   </tr>
   <tr>
     <td>11:15-11:30</td>
-    <td>Fotis Pappas, Sperm DNA methylation landscape and its links to semen quality in a non-model teleost</td>
+    <td><i>Sperm DNA methylation landscape and its links to semen quality in a non-model teleost</i></td>
+    <td>Fotis Pappas</td>
   </tr>
   <tr>
     <td>11:30-11:45</td>
-    <td>EMBnet - The Global Bioinformatics Network</td>
+    <td><i>EMBnet - The Global Bioinformatics Network</i></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th></th>
+    <th>End of session</th>
+    <th></th>
   </tr>
   <tr>
     <td>11:45-13:00</td>
-    <td>Lunch</td>
+    <td>Lunch break</td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><strong>Session Genomics</strong> - Chairs: Sabine Felkel and Suvi Mäkeläinen</td>
+    <th>13:00-14:45</th>
+    <th><strong>Session Genomics</strong></th>
+    <th>Sabine Felkel and Suvi Mäkeläinen</th>
   </tr>
   <tr>
     <td>13:00-13:15</td>
-    <td>Peetra Magnusson, The research school of the SciLifeLab & Wallenberg national program for Data-Driven Life Science (DDLS)</td>
+    <td><i>The research school of the SciLifeLab & Wallenberg national program for Data-Driven Life Science (DDLS)</i></td>
+    <td>Peetra Magnusson</td>
   </tr>
     <tr>
     <td>13:15-13:30</td>
-    <td>Anna Johansson, NBIS - A national bioinformatics infrastructure at a University near you</td>
+    <td><i>NBIS – A national bioinformatics infrastructure at a university near you</i></td>
+    <td>Anna Johansson</td>
   </tr>
   <tr>
     <td>13:30-14:00</td>
-    <td><strong>Keynote Kelly Swarts</strong>, Climate adaptation from longitudinal growth observations in natural forest trees</td>
+    <td><i>Climate adaptation from longitudinal growth observations in natural forest trees</i></td>
+    <td><strong>Keynote Kelly Swarts</strong></td>
   </tr>
   <tr>
     <td>14:00-14:15</td>
-    <td>Olga Krali, Molecular and pharmacological profiling of pediatric B-cell precursor acute lymphoblastic leukemia</td>
+    <td><i>Molecular and pharmacological profiling of pediatric B-cell precursor acute lymphoblastic leukemia</i></td>
+    <td>Olga Krali</td>
   </tr>
   <tr>
     <td>14:15-14:30</td>
-    <td>Philipp Rentzsch, Genetic and Transcriptomic Insights into Early-Onset Advanced Heart Failure: Findings from the SwedeHeartSeq Project</td>
+    <td><i>Genetic and Transcriptomic Insights into Early-Onset Advanced Heart Failure: Findings from the SwedeHeartSeq Project</i></td>
+    <td>Philipp Rentzsch</td>
   </tr>
   <tr>
     <td>14:30-14:45</td>
-    <td>Michael Landi, Genome-wide comparison reveals large structural variants in the cassava landraces</td>
+    <td><i>Genome-wide comparison reveals large structural variants in the cassava landraces</i></td>
+    <td>Michael Landi</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th>End of session</th>
+    <th></th>
   </tr>
   <tr>
     <td>14:45-16:00</td>
     <td>Poster session and exhibition with fika</td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><strong>Session Machine Learning and Artificial Intelligence</strong> - Chair: Gabriele Ponzatti</td>
+    <th>16:00-17:15</th>
+    <th><strong>Session Machine Learning and Artificial Intelligence</strong></th>
+    <th>Gabriele Ponzatti</th>
   </tr>
   <tr>
     <td>16:00-16:30</td>
-    <td><strong>Keynote Anton Feenstras</strong>, Title TBA</td>
+    <td><i>TBA</i></td>
+    <td><strong>Keynote Anton Feenstras</strong></td>
   </tr>
   <tr>
     <td>16:30-16:45</td>
-    <td>Shakhawath Hossain, Nanoparticle diffusion through native and artificial porcine colonic mucus model studied by diffusional fingerprinting - A machine learning framework</td>
+    <td><i>Nanoparticle diffusion through native and artificial porcine colonic mucus model studied by diffusional fingerprinting – A machine learning framework</i></td>
+    <td>Shakhawath Hossain</td>
   </tr>
   <tr>
     <td>16:45-17:00</td>
-    <td>Andrei Guliaev, Machine learning detection of antibiotic heteroresistance in E. coli</td>
+    <td><i>Machine learning detection of antibiotic heteroresistance in </i>E. coli</td>
+    <td>Andrei Guliaev</td>
   </tr>
   <tr>
     <td>17:00-17:15</td>
-    <td>Mariya Lysenkova Wiklander, Statistical guarantees for multiclass leukemia machine learning classifiers using conformal risk control</td>
+    <td><i>Statistical guarantees for multiclass leukemia machine learning classifiers using conformal risk control</i></td>
+    <td>Mariya Lysenkova Wiklander</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th>End of session</th>
+    <th></th>
   </tr>
   <tr>
     <td>18:30-22:30</td>
     <td>Dinner at Smålands nation</td>
+    <td></td>
   </tr>
 </table>
 
