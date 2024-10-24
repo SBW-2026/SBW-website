@@ -9,16 +9,16 @@ We are currently planning the sessions and times and will be updating this page 
 
 <!-- ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile} -->
 
-<table>
+<table style="width:130%;margin-left:-10%">
   <tr>
     <th style="width:20%;background-color:white;color:black">Day 1</th>
     <th style="background-color:white;color:black">Monday November 4, 2024</th>
-    <th style="width:37%;background-color:white"></th>
+    <th style="width:30%;background-color:white"></th>
   </tr>
   <tr>
     <th style="background-color:#96435A">Time</th>
     <th style="background-color:#96435A">Activity</th>
-    <th style="background-color:#96435A">Presenters/chairs</th>
+    <th style="background-color:#96435A">Speakers/chairs</th>
   </tr>
   <tr>
     <td>09:30-10:00</td>
@@ -150,108 +150,166 @@ We are currently planning the sessions and times and will be updating this page 
     <td>Dinner at Smålands nation</td>
     <td></td>
   </tr>
+  <tr>
+    <th style="background-color:#96435A"></th>
+    <th style="background-color:#96435A">End of Day 1</th>
+    <th style="background-color:#96435A"></th>
+  </tr>
 </table>
 
  <br>
  {% include page_divider.html %}
- <br>
 
-<table>
+<table style="width:130%;margin-left:-10%">
   <tr>
-    <th style="width:20%">Time</th>
-    <th>Tuesday November 5, 2024</th>
+    <th style="width:20%;background-color:white;color:black">Day 2</th>
+    <th style="background-color:white;color:black">Tuesday November 5, 2024</th>
+    <th style="width:30%;background-color:white"></th>
   </tr>
   <tr>
-    <td></td>
-    <td><strong>Parallel workshops</strong></td>
+    <th style="background-color:#96435A">Time</th>
+    <th style="background-color:#96435A">Activity</th>
+    <th style="background-color:#96435A">Speakers/chairs</th>
+  </tr>
+  <tr>
+    <th>OBS! Variable</th>
+    <th><strong>Parallel workshops</strong></th>
+    <th></th>
   </tr>
     <tr>
     <td><strong>8:00</strong>-11:00</td>
-    <td>1. Introduction to Nextflow</td>
+    <td><i>Introduction to Nextflow</i></td>
+    <td></td>
   </tr>
   <tr>
     <td>9:00-11:00</td>
-    <td>2. Data management LEGO workshop</td>
+    <td><i>Data management LEGO workshop</i></td>
+    <td></td>
   </tr>
   <tr>
     <td>9:00-11:00</td>
-    <td>3. Improve your skills in how to Visualize your Science</td>
+    <td><i>Improve your skills in how to Visualize your Science</i></td>
+    <td></td>
   </tr>
   <tr>
     <td>9:00-11:00</td>
-    <td>4. Packaging and sharing data science applications as Docker container images</td>
+    <td><i>Packaging and sharing data science applications as Docker container images</i></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th></th>
+    <th>End of session</th>
+    <th></th>
   </tr>
   <tr>
     <td>11:00-11:30</td>
     <td>Fika</td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><strong>Session Metagenomics</strong> - Chair: Faruk Dube<br></td>
+    <th>11:30-12:45</th>
+    <th><strong>Session Metagenomics</strong></th>
+    <th>Faruk Dube</th>
   </tr>
   <tr>
     <td>11:30-12:00</td>
-    <td><strong>Keynote Laura Caroll</strong>, Data-driven methods for microbial secondary metabolite discovery</td>
+    <td><i>Data-driven methods for microbial secondary metabolite discovery</i></td>
+    <td><strong>Keynote Laura Caroll</strong></td>
   </tr>
   <tr>
     <td>12:00-12:15</td>
-    <td>Vaishnavi Divya Shridar, Wastewater-based genomic surveillance of ESBL-producing Escherichia Coli </td>
+    <td><i>Wastewater-based genomic surveillance of ESBL-producing</i> Escherichia Coli</td>
+    <td>Vaishnavi Divya Shridar</td>
   </tr>
   <tr>
     <td>12:15-12:30</td>
-    <td>Moritz Buck, Extreme meta'omics: handling 15Tb+ of data from the Central Arctic Ocean</td>
+    <td><i>Extreme meta'omics: handling 15Tb+ of data from the Central Arctic Ocean</i></td>
+    <td>Moritz Buck</td>
   </tr>
   <tr>
     <td>12:30-12:45</td>
-    <td>Valeriia Ladyhina, Analysis of pig farm environment’s resistome: methodological aspects</td>
+    <td><i>Analysis of pig farm environment’s resistome: methodological aspects</i></td>
+    <td>Valeriia Ladyhina</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th>End of session</th>
+    <th></th>
   </tr>
   <tr>
     <td>12:45-14:00</td>
     <td>Lunch</td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><strong>Session Tools and Software 1</strong> - Chair: Kiran Paranjape</td>
+    <th>14:00-15:00</th>
+    <th><strong>Session Tools and Software 1</strong></th>
+    <th>Kiran Paranjape</th>
   </tr>
     <tr>
     <td>14:00-14:30</td>
-    <td>Ludvig Larsson, Reconstructing 3D layouts from cell graphs</td>
+    <td><i>Reconstructing 3D layouts from cell graphs</i></td>
+    <td>Ludvig Larsson</td>
   </tr>
     <tr>
     <td>14:30-14:45</td>
-    <td>Jérôme Salignon, Cactus: A user-friendly and reproducible ATAC-Seq and mRNA-Seq analysis pipeline for data preprocessing, differential analysis, and enrichment analysis</td>
+    <td><i>Cactus: A user-friendly and reproducible ATAC-Seq and mRNA-Seq analysis pipeline for data preprocessing, differential analysis, and enrichment analysis</i></td>
+    <td>Jérôme Salignon</td>
   </tr>
     <tr>
     <td>14:45-15:00</td>
-    <td>Davide Buzzao, FunCoup v6: advancing functional networks across species with directed links and improved user experience</td>
+    <td><i>FunCoup v6: advancing functional networks across species with directed links and improved user experience</i></td>
+    <td>Davide Buzzao</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th>End of session</th>
+    <th></th>
   </tr>
   <tr>
     <td>15:00-15:30</td>
     <td>Fika</td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td><strong>Session Tools and Software 2</strong> - Chair: Renaud Van Damme</td>
+    <th>15:30-16:45</th>
+    <th><strong>Session Tools and Software 2</strong></th>
+    <th>Renaud Van Damme</th>
   </tr>
- <tr>
+  <tr>
     <td>15:30-16:00</td>
-    <td><strong>Keynote Phil Ewels</strong>, From Bench to Big Data: What's new with MultiQC and Nextflow<br>Talks selected from abstracts.</td>
-</tr>
- <tr>
+    <td><i>From Bench to Big Data: What's new with MultiQC and Nextflow</i></td>
+    <td><strong>Keynote Phil Ewels</strong></td>
+  </tr>
+  <tr>
     <td>16:00-16:15</td>
-    <td>Jyotirmoy Das, methylR 2.0: an enhanced user-friendly solution for DNA methylation array analysis</td>
+    <td><i>methylR 2.0: an enhanced user-friendly solution for DNA methylation array analysis</i></td>
+    <td>Jyotirmoy Das</td>
   </tr>
- <tr>
+  <tr>
     <td>16:15-16:30</td>
-    <td>Pascal Milesi, ‘rCNV’, a comprehensive framework to detect gene copy number variations from SNPs data</td>
+    <td><i>‘rCNV’, a comprehensive framework to detect gene copy number variations from SNPs data</i></td>
+    <td>Pascal Milesi</td>
   </tr>
- <tr>
+  <tr>
     <td>16:30-16:45</td>
-    <td>Marcel Tarbier, Computational inference reveals cancer lineages and identifies early markers of tumor invasion</td>
-  </tr> 
+    <td><i>Computational inference reveals cancer lineages and identifies early markers of tumor invasion</i></td>
+    <td>Marcel Tarbier</td>
+  </tr>
+  <tr>
+    <th></th>
+    <th>End of session</th>
+    <th></th>
+  </tr>
   <tr>
     <td>16:45-17:00</td>
     <td>Poster prizes and closing remarks</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th style="background-color:#96435A"></th>
+    <th style="background-color:#96435A">End of conference</th>
+    <th style="background-color:#96435A"></th>
   </tr>
 </table>
 
