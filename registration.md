@@ -7,14 +7,16 @@ main_nav: true
 
 # Abstract submission
 
-Abstract submission for poster and oral presentations at the SBW 2024 is open now! Please <b>[click here](https://docs.google.com/forms/d/e/1FAIpQLSdGFBj7f6cx49fU-yqM9MLOuTlayjOEHSc-OHSUiQl4wNKz6g/viewform?usp=sharing)</b> to submit your abstract. The last day to submit an abstract is September 2, 2024. Please, don't forget to also register for the conference below. If you have not submitted your registration by the abstract submission deadline, your abstract will not be considered for presentation. We are looking forward to receiving your abstract!
+The abstract submission has been closed.
 
 <br>
  {% include page_divider.html %}
 
 # Registration
 
-Registration for in-person (see table beblow for detailed registration fees) and virtual participation (virtual participation is free of charge) to the SBW2024 is open now! Please <b>[click here](https://docs.google.com/forms/d/e/1FAIpQLScRN2BbuBoD4W1o6xO13wd4SE38HT3Pwr0wzOF594hsn8IAPQ/viewform?usp=sharing)</b> to register. The last day to register is October 1, 2024. 
+Registration for both in-person and virtual participation to the SBW2024 is now <strong>closed</strong>! The last day to register was October 1, 2024. Late registrations will not be accepted. 
+
+<!-- Registration for in-person (see table beblow for detailed registration fees) and virtual participation (virtual participation is free of charge) to the SBW2024 is open now! Please <b>[click here](https://docs.google.com/forms/d/e/1FAIpQLScRN2BbuBoD4W1o6xO13wd4SE38HT3Pwr0wzOF594hsn8IAPQ/viewform?usp=sharing)</b> to register. The last day to register is October 1, 2024.  -->
 
 ## Registration fees
 

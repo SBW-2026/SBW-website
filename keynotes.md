@@ -52,6 +52,21 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
+  <!-- keynote: -->
+
+ <div class="speaker-info">
+    <div class="speaker-image">
+        <img src="{{ site.baseurl }}/assets/keynotes/Anton_Feenstra" alt="Anton Feenstra" style="width: 100%; border-radius: 50%; overflow: hidden;">
+    </div>
+    <div class="speaker-text">
+        <p><strong><center><a href="https://www.vubioinformatics.com/user/antonfeenstra/" target="_blank">Anton Feenstra, Vrije Universiteit Amsterdam</a></center></strong></p>
+        <p>Anton Feenstra is an associate professor, with a focus on structural bioinformatics, protein-protein interactions, and the modeling of signaling and regulatory networks. He specializes in predicting protein interactions from sequences using computational methods like Petri Net models. He has worked on molecular dynamics simulations of biomolecules, aiming at understanding protein structures and their functional features.</p>
+    </div>
+</div>
+
+<br>
+ {% include page_divider.html %}
+
 
  <!-- keynote: -->
 

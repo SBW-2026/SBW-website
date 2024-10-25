@@ -148,6 +148,7 @@ pre code.hljs {
   	@include outer-container;
     @include clearfix;
     position: relative;
+	
   }
   .logo {
     float: left;
@@ -224,7 +225,7 @@ pre code.hljs {
 	margin-top: 66px;
 	.wrapper {
 		@include outer-container;
-		padding: 1em;
+		padding: 4em;    // Adjust this to increase or decrease the gap between navigation bar and main content
 	}
 	/*
 	*	index.html
