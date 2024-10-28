@@ -14,7 +14,7 @@ The abstract submission has been closed.
 
 # Registration
 
-Registration for both in-person and virtual participation to the SBW2024 is now <strong>closed</strong>! The last day to register was October 1, 2024. Late registrations will not be accepted. 
+Registration for in-person participation to the SBW2024 is now <strong>closed</strong>! The last day to register was October 1, 2024. You can still register as an on-line participant until <u>November 1, 2024</u> by using <b>[this link](https://docs.google.com/forms/d/e/1FAIpQLScloyGPqAxZy88qU9Eyj5wwM4hPtdMyZNTubOOyOQZmHt50dQ/viewform?usp=sf_link)</b>.
 
 <!-- Registration for in-person (see table beblow for detailed registration fees) and virtual participation (virtual participation is free of charge) to the SBW2024 is open now! Please <b>[click here](https://docs.google.com/forms/d/e/1FAIpQLScRN2BbuBoD4W1o6xO13wd4SE38HT3Pwr0wzOF594hsn8IAPQ/viewform?usp=sharing)</b> to register. The last day to register is October 1, 2024.  -->
 
