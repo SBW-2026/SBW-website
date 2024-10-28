@@ -58,7 +58,7 @@ We are currently planning the sessions and times and will be updating this page 
   <tr>
     <td>11:30-11:45</td>
     <td><i>EMBnet - The Global Bioinformatics Network</i></td>
-    <td></td>
+    <td>Erik Bongcam-Rudloff</td>
   </tr>
   <tr>
     <th></th>
