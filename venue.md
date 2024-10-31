@@ -19,22 +19,22 @@ The SBW will take place in Uppsala, at the Swedish University of Agricultural Sc
 
 ## by bus:
 
-From **Uppsala main station** take **bus lines 4 or 101** to **Campus Ultuna**. From there is is only a few hundred meters to the venue (see map above). 
+From **Uppsala main station** take **bus lines 4, 100 or 101** to **Campus Ultuna**. From there is is only a few hundred meters to the venue (see map above). 
 
 Tickets for the bus can be bought in the UL app or directly from the bus drivers (card-only). For more information, please visit [https://ul.se](https://www.ul.se/). UL tickets can also be purchased through the SL app. To learn how, visit [https://sl.se](https://sl.se/biljetter/sortiment-och-regler/ul-biljetter/).
 
 ## by car (from Stockholm):
 
-Drive E4 to Uppsala. When you are close to Uppsala, the motorway exit is to the right, with signs “Uppsala S”. Continue to the roundabout and turn right at the third roundabout exit. Follow the signs to “Ultuna” (you will pass a bridge over the Fyris river). At the traffic light after the bridge, turn left. After about one kilometer, turn right at the sign “Djursjukhus”. You are now at the Ultuna campus site.
+Drive E4 to Uppsala. When you are close to Uppsala, the motorway exit is to the right, with signs “Uppsala S”. Continue to the roundabout and turn right at the third roundabout exit. Follow the signs to “Ultuna” (you will pass a bridge over the Fyris river). At the traffic light after the bridge, turn left. After about one kilometer, turn left at the sign “Djursjukhus”. You are now at the Ultuna campus site.
 
 ## by bus or train from Arlanda Airport:
 
 Buses and local trains go from the airport to the city centre of Uppsala. Find information and time tables at [https://sj.se](https://www.sj.se/), [https://sl.se](https://www.sl.se/), or [https://ul.se](https://www.ul.se/).
 
 
-# Location Socal Event
+# Location Social Event
 
-Uppsala is known for it's student life! Out social event with dinner will therefore take place at Smålands Nation (S:t Larsgatan 5, Uppsala). 
+Uppsala is known for it's student life! Our social event with dinner will therefore take place at Smålands Nation (S:t Larsgatan 5, Uppsala). 
 
 **You are welcome at the Nation from  18:30!**
 
@@ -49,6 +49,8 @@ You can **walk there from the train station** (see map below), or take the **bus
 ## by car: 
 
 Parking in central Uppsala is not very easy, but there are a few parking garages around the train station. From there you can walk to the dinner venue (see above). 
+
+A parking garage that usually has vacancies is located at Kungsgatan 89, another one that is located closer to the dinner venue is at Klostergatan 13. 
 
 
 ## Accomodation in Uppsala
