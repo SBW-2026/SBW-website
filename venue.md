@@ -5,15 +5,63 @@ permalink: /venue/
 main_nav: true
 ---
 
-# Location
+# Location Aula
 
-The SBW will take place in Uppsala, in the Aula of the Swedish University of Agricultural Sciences (SLU). 
+The SBW will take place in Uppsala, at the Swedish University of Agricultural Sciences (SLU), in the Aula of Undervisningshuset, Almas Allé 10. 
 
-![alt text]({{ site.baseurl }}/assets/location.jpg "Location Picture")
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d1003.0194433082185!2d17.66060983917003!3d59.81527379230048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m5!1s0x465fc97667732199%3A0x1373fbc09495122e!2sCampus%20Ultuna%2C%20Ulls%20v%C3%A4g%2025%2C%20756%2051%20Uppsala!3m2!1d59.8155571!2d17.6592974!4m3!3m2!1d59.815288599999995!2d17.6620904!5e0!3m2!1ssv!2sse!4v1730370361605!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br>
  {% include page_divider.html %}
 
-# Transport
+## Getting there 
 
-The venue can easily be reached with public transport. The closest bus stop to the venue is Campus Ultuna, which can be reached with bus lines 4 or 101 from the Uppsala main station. Tickets for the bus can be bought in the UL app or directly from the bus drivers (card-only). For more information, please visit [https://ul.se](https://www.ul.se/). UL tickets can also be purchased through the SL app. To learn how, visit [https://sl.se](https://sl.se/biljetter/sortiment-och-regler/ul-biljetter/).
+### by bus:
+
+From **Uppsala main station** take **bus lines 4, 100 or 101** to **Campus Ultuna**. From there is is only a few hundred meters to the venue (see map above). 
+
+Tickets for the bus can be bought in the UL app or directly from the bus drivers (card-only). For more information, please visit [https://ul.se](https://www.ul.se/). UL tickets can also be purchased through the SL app. To learn how, visit [https://sl.se](https://sl.se/biljetter/sortiment-och-regler/ul-biljetter/).
+
+### by car (from Stockholm):
+
+Drive E4 to Uppsala. When you are close to Uppsala, the motorway exit is to the right, with signs “Uppsala S”. Continue to the roundabout and turn right at the third roundabout exit. Follow the signs to “Ultuna” (you will pass a bridge over the Fyris river). At the traffic light after the bridge, turn left. After about one kilometer, turn left at the sign “Djursjukhus”. You are now at the Ultuna campus site.
+
+### by bus or train from Arlanda Airport:
+
+Buses and local trains go from the airport to the city centre of Uppsala. Find information and time tables at [https://sj.se](https://www.sj.se/), [https://sl.se](https://www.sl.se/), or [https://ul.se](https://www.ul.se/).
+
+
+<br>
+ {% include page_divider.html %}
+
+# Location Social Event
+
+Uppsala is known for it's student life! Our social event with dinner will therefore take place at Smålands Nation (S:t Larsgatan 5, Uppsala). 
+
+**You are welcome at the Nation from  18:30!**
+
+## Getting there: 
+
+### on foot:
+
+You can **walk there from the train station**:
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4006.828473007741!2d17.63360160066153!3d59.85886768679718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x465fcbf9a0d697b1%3A0x1901cc46b512aff6!2sUppsala%20Centralstation%2C%20753%2021%20Uppsala!3m2!1d59.8581984!2d17.6465417!4m5!1s0x465fcbf401d3ea9f%3A0x54c01ea152e147f4!2sSm%C3%A5lands%20nation%2C%20S%3At%20Larsgatan%205%2C%20753%2011%20Uppsala!3m2!1d59.8591865!2d17.631214399999998!5e0!3m2!1ssv!2sse!4v1730377178084!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### by bus: 
+
+You take the **bus number 6 or 9 to Saluhallen** and make your way from there. 
+
+### by car: 
+
+Parking in central Uppsala is not very easy, but there are a few parking garages around the train station. From there you can walk to the dinner venue (see above). 
+
+A parking garage that usually has vacancies is located at Kungsgatan 89. One of the closest parking garages is the one under S:t Per Gallerian, located at Dragarbrunnsgatan 21. For more information on parking garages in Uppsala, please check [here](https://www.uppsala.se/globalassets/parkering/dokument---parkering/parkeringskartfolder-2023-m-engelsk-qr.pdf). 
+
+<br>
+ {% include page_divider.html %}
+
+# Accomodation in Uppsala
+
+There are many different hotels in central Uppsala. A convenient hotel is the **Elite Hotel Academia** – right by the train station, very central and with good connections to SLU. If you contact them via reservation.academia@elite.se and name the booking code ”SLU - Bioinformatics conference” you’ll get a **discounted rate** on their rooms. 
