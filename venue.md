@@ -40,11 +40,15 @@ Uppsala is known for it's student life! Our social event with dinner will theref
 
 # Getting there: 
 
-## by bus:
+## on foot:
 
-You can **walk there from the train station** (see map below), or take the **bus number 6 or 9 to Saluhallen** and make your way from there. 
+You can **walk there from the train station**:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d4006.828473007741!2d17.63360160066153!3d59.85886768679718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x465fcbf9a0d697b1%3A0x1901cc46b512aff6!2sUppsala%20Centralstation%2C%20753%2021%20Uppsala!3m2!1d59.8581984!2d17.6465417!4m5!1s0x465fcbf401d3ea9f%3A0x54c01ea152e147f4!2sSm%C3%A5lands%20nation%2C%20S%3At%20Larsgatan%205%2C%20753%2011%20Uppsala!3m2!1d59.8591865!2d17.631214399999998!5e0!3m2!1ssv!2sse!4v1730377178084!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## by bus: 
+
+You take the **bus number 6 or 9 to Saluhallen** and make your way from there. 
 
 ## by car: 
 
