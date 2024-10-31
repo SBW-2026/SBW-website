@@ -73,6 +73,27 @@ Organizers of the SBW2024:
 
 <br>
 
+
+<!-- member: -->
+
+<div style="display: flex;align-items: center;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
+        <img src="{{ site.baseurl }}/assets/team/Dries Boers_modified.png" alt="Image" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <!-- Place your text content here -->
+        <p><strong>Dries Boers </strong> <br>
+        PhD student at the Swedish University of Agricultural Sciences (SLU) <br>
+        Department of Molecular Sciences <br>
+        Linkedin: <a href="https://www.linkedin.com/in/driesboers/" target="_blank">
+        @Dries Boers</a>
+        </p>
+    </div>
+</div>
+
+<br>
+
+
 <!--  member: -->
 
 <div style="display: flex;align-items: center;">

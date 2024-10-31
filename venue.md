@@ -50,7 +50,8 @@ You can **walk there from the train station** (see map below), or take the **bus
 
 Parking in central Uppsala is not very easy, but there are a few parking garages around the train station. From there you can walk to the dinner venue (see above). 
 
-A parking garage that usually has vacancies is located at Kungsgatan 89. For more information on parking garages in Uppsala, please check [here](https://www.uppsala.se/globalassets/parkering/dokument---parkering/parkeringskartfolder-2023-m-engelsk-qr.pdf). 
+A parking garage that usually has vacancies is located at Kungsgatan 89. One of the closest parking garages is the one under S:t Per Gallerian, located at Dragarbrunnsgatan 21. For more information on parking garages in Uppsala, please check [here](https://www.uppsala.se/globalassets/parkering/dokument---parkering/parkeringskartfolder-2023-m-engelsk-qr.pdf). 
+
 
 
 # Accomodation in Uppsala
