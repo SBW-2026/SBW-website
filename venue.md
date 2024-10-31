@@ -50,9 +50,9 @@ You can **walk there from the train station** (see map below), or take the **bus
 
 Parking in central Uppsala is not very easy, but there are a few parking garages around the train station. From there you can walk to the dinner venue (see above). 
 
-A parking garage that usually has vacancies is located at Kungsgatan 89. For more information, please check [here](https://www.uppsala.se/globalassets/parkering/dokument---parkering/parkeringskartfolder-2023-m-engelsk-qr.pdf). 
+A parking garage that usually has vacancies is located at Kungsgatan 89. For more information on parking garages in Uppsala, please check [here](https://www.uppsala.se/globalassets/parkering/dokument---parkering/parkeringskartfolder-2023-m-engelsk-qr.pdf). 
 
 
-## Accomodation in Uppsala
+# Accomodation in Uppsala
 
 There are many different hotels in central Uppsala. A convenient hotel is the **Elite Hotel Academia** – right by the train station, very central and with good connections to SLU. If you contact them via reservation.academia@elite.se and name the booking code ”SLU - Bioinformatics conference” you’ll get a **discounted rate** on their rooms. 
