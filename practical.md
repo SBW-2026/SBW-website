@@ -18,7 +18,7 @@ Lunch on Tuesday will be a sitting lunch, served att Ull's restaurant and the KÃ
 Here's a map of how to get there: 
 
 <div style="text-align: center;">
-<img src="assets/map-lunch.jpg" style="width: 50%;" alt="Path to the lunch restaurants">
+<img src="{{ site.baseurl }}/assets/map-lunch.jpg" style="width: 50%;" alt="Path to the lunch restaurants">
 </div>
 
 <br>
