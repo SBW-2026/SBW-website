@@ -15,6 +15,12 @@ Monday's lunch will be serves outside of the Aula, on the lower and upper floor.
 
 Lunch on Tuesday will be a sitting lunch, served att Ull's restaurant and the Kårhus. Food for people with dietary restrictions will be served in Ulls restaurant. 
 
+Here's a map of how to get there: 
+
+<center>
+![](assets/map-lunch.jpg){width=60%}
+<\center>
+
 <br>
  {% include page_divider.html %}
 
