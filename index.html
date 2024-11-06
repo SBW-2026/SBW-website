@@ -12,115 +12,68 @@ pagination:
   </div>
 </div>
 
-
 <div class="wrapper">
   <div class="page">
   
     <header class="post-header">
-      <h1 class="post-title">
-        Welcome
-      </h1>
+      <h1 class="post-title">Welcome</h1>
       <p>
         Welcome to the Swedish Bioinformatics Workshop (SBW) 2024!
         <br>
-        The largest bioinformatics and computational biology conference in Sweden will be hosted in  <b>Uppsala</b>, at the <b>Swedish University of Agricultural Sciences</b>, on  <b>November 4 and 5, 2024</b>.
+        The largest bioinformatics and computational biology conference in Sweden will be hosted in <b>Uppsala</b>, at the <b>Swedish University of Agricultural Sciences</b>, on <b>November 4 and 5, 2024</b>.
     </header>
   
     {% include page_divider.html %}
   
     <article class="post-content">
       <h2>Introduction to SBW2024</h2>
-        <p>The Swedish Bioinformatics Workshop (SBW) is an annual event that has been organized by different universities in Sweden since 2000. It is the biggest meeting of bioinformaticians and computational biologists in Sweden. <br><br>
-          This year, we are happy to announce that the event will take place in Uppsala, November 4-5 at The Swedish University of Agricultural Sciences.
-          The event is targeted at and organized by PhD students and postdocs, but it's open to everyone working with any kind of bioinformatics or computational biology. <br><br>
-          Senior scientists and non-academic participants are welcome. In addition, the SBW2024 is part of the Nordic Computational Biology (Nordic CompBio) week and is open to participants from other Nordic countries.
-          Visit <a href="https://www.nordic-compbio.org/events">Nordic CompBio</a> for more information and updates on regional programmes.
-				</p>
+      <p>The Swedish Bioinformatics Workshop (SBW) is an annual event organized by different universities in Sweden since 2000. It is the largest gathering of bioinformaticians and computational biologists in Sweden. <br><br>
+        This year, we are happy to announce that the event will take place in Uppsala, on November 4-5 at The Swedish University of Agricultural Sciences.
+        The event is targeted at and organized by PhD students and postdocs, but it's open to everyone working with any kind of bioinformatics or computational biology. <br><br>
+        Senior scientists and non-academic participants are welcome. Additionally, the SBW2024 is part of the Nordic Computational Biology (Nordic CompBio) week and is open to participants from other Nordic countries.
+        Visit <a href="https://www.nordic-compbio.org/events">Nordic CompBio</a> for more information and updates on regional programs.
+      </p>
 
-				<p>
-					<strong>SBW 2025 organizing committee</strong> - The SBW is held in a different Swedish city every year and traditionally orgnized by a team of PhD students and Postdocs. 
-					If you are interested in being involved in the organization of the SBW 2025, please reach out to us at <u>info@sbw2024.org</u>.
-				</p>
-			
-		 {% include page_divider.html %}
-			
+      <p><strong>SBW 2025 organizing committee</strong> - The SBW is held in a different Swedish city every year and traditionally organized by a team of PhD students and Postdocs. 
+      If you are interested in being involved in the organization of the SBW 2025, please reach out to us at <u>info@sbw2024.org</u>.
+      </p>
+      
+      {% include page_divider.html %}
+      
       <h2>Registration</h2>
-      <p>Registration is closed!</p>
-        <!-- <p><b>Registration is closed!</b> For more information on registration, please visit the <a href="registration/">registration</a> page. </p> -->
+      <p>Registration for in-person participation to the SBW2024 is now <strong>closed</strong>! The last day to register was October 1, 2024. You can still register as an online participant until <u>November 1, 2024</u> by using <a href="https://docs.google.com/forms/d/e/1FAIpQLScloyGPqAxZy88qU9Eyj5wwM4hPtdMyZNTubOOyOQZmHt50dQ/viewform?usp=sf_link"><strong>this link</strong></a>.</p>
+
+      <h3>Registration fees</h3>
+      <table>
+        <tr>
+          <th>Participant</th>
+          <th>Before August 18, 2024</th>
+          <th>After August 18, 2024</th>
+        </tr>
+        <tr>
+          <td>Student (*) /Postdoc at a Swedish University</td>
+          <td>Free</td>
+          <td>Free</td>
+        </tr>
+        <tr>
+          <td>Other academic participants</td>
+          <td>500 SEK</td>
+          <td>1,000 SEK</td>
+        </tr>
+        <tr>
+          <td>Non-academic participants</td>
+          <td>1,500 SEK</td>
+          <td>2,000 SEK</td>
+        </tr>
+      </table>
+
+      <p>(*) Students include all PhD students as well as Master students who are currently in their final year working on their thesis project.</p>
+
+      <h3>No-show fees</h3>
+      <p>Participation in the SBW is free of charge for students and postdocs at Swedish Universities. However, if you register as an on-site participant and do not attend the event (no-show), your institution will be invoiced <strong>1,000 SEK</strong>. Other academic and non-academic participants will be invoiced the registration fee. Please provide a valid invoice address upon registration, including reference codes to the paying project. Cancellation via email to <a href="mailto:info@sbw2024.org" itemprop="email">info@sbw2024.org</a> is free until <u>October 21, 2024</u>.</p>
+
+      <p>Please note that the SBW cannot invoice individuals.</p>
     </article>
   
   </div>
-  </div>
-
-<!-- <div class="wrapper">
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <div class="post-categories">
-      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-        {% if site.jekyll-archives %}
-        <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% else %}
-        <a href="{{ site.baseurl }}/posts/#{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% endif %}
-      {% endfor %}{% endif %}
-      </div>
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
-  {% endif %}
-  {% endfor %}
-</ul>
-
-<nav class="pagination" role="navigation">
-	<p>
-    {% if paginator.previous_page %}
-			{% if paginator.page == 2 %}
-			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-			{% else %}
-			<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
-				<span class="fa-stack fa-lg">
-					<i class="fa fa-square fa-stack-2x"></i>
-					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-				</span>
-			</a>
-			{% endif %}
-		{% else %}
-		<span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-    </span>
-		{% endif %}
-		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-		{% if paginator.next_page %}
-		<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-		{% else %}
-		<span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-    </span>
-		{% endif %}
-	</p>
-</nav> -->
-
-<!-- </div> -->
-<!-- </div> -->
+</div>
