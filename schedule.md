@@ -5,8 +5,6 @@ permalink: /schedule/
 main_nav: true
 ---
 
-We are currently planning the sessions and times and will be updating this page with new information. Please check below for a preliminary schedule.
-
 <!-- ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile} -->
 
 <table style="width:130%;margin-left:-10%">
