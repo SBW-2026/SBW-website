@@ -5,7 +5,6 @@ permalink: /practical/
 main_nav: true
 ---
 
-
 # Social event
 
 
