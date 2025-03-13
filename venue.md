@@ -7,7 +7,7 @@ main_nav: true
 
 # Location Aula
 
-The SBW will take place in Uppsala, at the Swedish University of Agricultural Sciences (SLU), in the Aula of Undervisningshuset, Almas Allé 10. 
+The SBW took place in Uppsala, at the Swedish University of Agricultural Sciences (SLU), in the Aula of Undervisningshuset, Almas Allé 10. 
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d1003.0194433082185!2d17.66060983917003!3d59.81527379230048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m5!1s0x465fc97667732199%3A0x1373fbc09495122e!2sCampus%20Ultuna%2C%20Ulls%20v%C3%A4g%2025%2C%20756%2051%20Uppsala!3m2!1d59.8155571!2d17.6592974!4m3!3m2!1d59.815288599999995!2d17.6620904!5e0!3m2!1ssv!2sse!4v1730370361605!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -37,4 +37,4 @@ Buses and local trains go from the airport to the city centre of Uppsala. Find i
 
 # Accomodation in Uppsala
 
-There are many different hotels in central Uppsala. A convenient hotel is the **Elite Hotel Academia** – right by the train station, very central and with good connections to SLU. If you contact them via reservation.academia@elite.se and name the booking code ”SLU - Bioinformatics conference” you’ll get a **discounted rate** on their rooms. 
+There are many different hotels in central Uppsala. A convenient hotel is the **Elite Hotel Academia** – right by the train station, very central and with good connections to SLU. The SBW24 had an arrangement with them for discounted rates on their rooms.

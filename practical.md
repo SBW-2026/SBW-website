@@ -1,48 +1,14 @@
 ---
 layout: page
-title: "On the day"
+title: "Social event"
 permalink: /practical/
 main_nav: true
 ---
 
-# Lunches at SLU
-
-## Lunch Monday
-
-Monday's lunch will be serves outside of the Aula, on the lower and upper floor. Food for people with dietary restrictions will be served on the uppper floor by the registration. 
-
-## Lunch Tuesday
-
-Lunch on Tuesday will be a sitting lunch, served att Ull's restaurant and the Kårhus. Food for people with dietary restrictions will be served in Ulls restaurant. 
-
-Here's a map of how to get there: 
-
-<div style="text-align: center;">
-<img src="{{ site.baseurl }}/assets/map-lunch.jpg" style="width: 50%;" alt="Path to the lunch restaurants">
-</div>
-
-<br>
- {% include page_divider.html %}
-
-
-# Poster session
-
-The poster session will take place Monday together with the afternoon fika. Follow the signs to the lower entrance of Ulls Hus, or ask someone with a white SBW t-shirt.
-
-**Do not forget to vote for your favorite poster!** More information by the posters. 
-
-
-
-
-<br>
- {% include page_divider.html %}
-
 # Social event
 
 
-Uppsala is known for it's student life! Our social event with dinner will therefore take place at Smålands Nation (S:t Larsgatan 5, Uppsala). 
-
-**You are welcome at the Nation from  18:30!**
+Uppsala is known for it's student life! Therefore, our social event with dinner took place at Smålands Nation (S:t Larsgatan 5, Uppsala). 
 
 ## Getting there: 
 

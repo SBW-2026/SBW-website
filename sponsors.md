@@ -5,17 +5,17 @@ permalink: /sponsors/
 main_nav: true
 ---
 
-Here you can see a list of <b>sponsors and other funding sources</b> that 
-made SBW2024 possible.
+We thank all the <b>sponsors and other funding sources</b> that 
+made SBW2024 possible:
 
 <!-- [![alt text]({{ site.baseurl }}/assets/sponsors/Wenner-gren.png "WennerGren Picture")](https://www.swgc.org/) -->
 
-<div class="image-grid">
   <a href="https://www.swgc.org/">
-  <img src="{{ site.baseurl }}/assets/sponsors/Wenner-gren.png" alt="WennerGren Picture" style="width:230px; height:auto;">
+  <img src="{{ site.baseurl }}/assets/sponsors/Wenner-gren.png" alt="WennerGren Picture" style="width:600px; height:auto;">
   </a>
+<div class="image-grid">
   <a href="https://www.slubi.se/">
-    <img src="{{ site.baseurl }}/assets/sponsors/SLUBI.png" alt="SLUBI Logo" style="width:230px; height:auto;">
+    <img src="{{ site.baseurl }}/assets/sponsors/SLUBI.png" alt="SLUBI Logo" style="width:130px; height:auto;">
   </a>
   <a href="https://www.scilifelab.se/">
   <img src="{{ site.baseurl }}/assets/sponsors/SciLifeLab_Logotype_Green_POS.png" alt="SciLifeLab">
@@ -27,7 +27,7 @@ made SBW2024 possible.
     <img src="{{ site.baseurl }}/assets/sponsors/mergerdEMBnetLogoFlatRed.png" alt="SLUBI Logo" style="width:400px; height:auto;">
   </a>
   <a href="https://nbis.se/">
-    <img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS Picture" style="width:400px; height:auto;">
+    <img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS Picture" style="width:200px; height:auto;">
   </a>
   <a href="https://slu.se/">
     <img src="{{ site.baseurl }}/assets/sponsors/slu.png" alt="SLU Picture" style="width:400px; height:auto;">
