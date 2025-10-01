@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Swedish Bioinformatics Workshop 2024
+title: Swedish Bioinformatics Workshop 2026
 subtitle: ""
-email: info@sbw2024.org
-name: SBW2024
+email: swedishbioinformaticsworkshop@gmail.com
+name: SBW2026
 description: >
  Nov 4th and 5th <br> Aula, Swedish University of Agricultural Sciences <br> Campus Ultuna
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.sbw2024.org/" # the base hostname & protocol for your site
+url: "https://www.sbw2026.org/" # the base hostname & protocol for your site
 cover: "/assets/Fyrisan_2018.jpg"
 logo:  "/assets/SBW2024_logo_pink_final.png"
 
@@ -88,6 +88,6 @@ protocols:
 
     twitter_image: "/assets/SBW2024_logo_pink_final.png"
 
-    os_repo: "https://github.com/SBW2024/SBW-website"
+    os_repo: "https://github.com/SBW-2026/SBW-website"
     os_rcs_type: "git"
-    os_src: "git@github.com:SBW2024/SBW-website.git"
+    os_src: "git@github.com:SBW-2026/SBW-website.git"
