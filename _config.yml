@@ -11,17 +11,19 @@ exclude:
 # Site settings
 title: Swedish Bioinformatics Workshop 2026
 subtitle: ""
-email: swedishbioinformaticsworkshop@gmail.com
+email: "SBW2026@biomedicine.gu.se"
 name: SBW2026
 description: >
- Nov 4th and 5th <br> Aula, Swedish University of Agricultural Sciences <br> Campus Ultuna
+  12–13 March 2026 <br> Wallenberg Conference Center <br> Gothenburg
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.sbw2026.org/" # the base hostname & protocol for your site
-cover: "/assets/Fyrisan_2018.jpg"
-logo:  "/assets/SBW2024_logo_pink_final.png"
+url: "https://www.sbw2026.org/"
+
+# Hero/branding images
+cover: "/assets/Fyrisan_2018.jpg"  # TODO: Replace with a Gothenburg/Wallenberg hero image for 2026
+logo:  "/assets/SBW2026_logo_blue.png"
 
 # Build settings
 markdown: kramdown
@@ -60,33 +62,16 @@ descriptions:
   - cat: teamNews
     desc: "Posts about team news."
 
-# Social icons and sharing options
-#
-# Social settings are used in two places:
-# * In the footer, as links to your personal profiles
-# * After each blog post for sharing widgets
-#
-# Example:
-#
-# social:
-#   - name: Twitter                         # Name of the service
-#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
-#     desc: Follow me on Twitter            # Description to display as link title, etc
-#     share: true                           # Include in the "Share" section of posts
-
-
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/SBW2024_logo_pink_final.png"
+    fb_image: "/assets/SBW2024_logo_pink_final.png"  # TODO: Point to SBW2026 social image/logo
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/SBW2024_logo_pink_final.png"
+    twitter_image: "/assets/SBW2024_logo_pink_final.png"  # TODO: Point to SBW2026 social image/logo
 
     os_repo: "https://github.com/SBW-2026/SBW-website"
     os_rcs_type: "git"
