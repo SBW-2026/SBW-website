@@ -66,12 +66,12 @@ descriptions:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/SBW2024_logo_pink_final.png"  # TODO: Point to SBW2026 social image/logo
+    fb_image: "/assets/SBW2026_logo_blue.png"  # TODO: Point to SBW2026 social image/logo
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/SBW2024_logo_pink_final.png"  # TODO: Point to SBW2026 social image/logo
+    twitter_image: "/assets/SBW2026_logo_blue.png"  # TODO: Point to SBW2026 social image/logo
 
     os_repo: "https://github.com/SBW-2026/SBW-website"
     os_rcs_type: "git"
