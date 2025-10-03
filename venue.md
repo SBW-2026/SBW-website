@@ -5,36 +5,30 @@ permalink: /venue/
 main_nav: true
 ---
 
-# Location Aula
+# Location: Conference Centre Wallenberg
 
-The SBW took place in Uppsala, at the Swedish University of Agricultural Sciences (SLU), in the Aula of Undervisningshuset, Almas Allé 10. 
+SBW2026 will take place in Gothenburg at the Conference Centre Wallenberg, part of the University of Gothenburg. The venue is located on Medicinareberget.
 
+**Address:** Medicinaregatan 20, 413 90 Gothenburg
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d1003.0194433082185!2d17.66060983917003!3d59.81527379230048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m5!1s0x465fc97667732199%3A0x1373fbc09495122e!2sCampus%20Ultuna%2C%20Ulls%20v%C3%A4g%2025%2C%20756%2051%20Uppsala!3m2!1d59.8155571!2d17.6592974!4m3!3m2!1d59.815288599999995!2d17.6620904!5e0!3m2!1ssv!2sse!4v1730370361605!5m2!1ssv!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2132.684945734866!2d11.957533076030458!3d57.68783217386138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff313c630b7af%3A0x861010a67293672b!2sWallenberg%20Conference%20Center!5e0!3m2!1sen!2sse!4v1759494682175!5m2!1sen!2sse" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<br>
- {% include page_divider.html %}
+<hr>
 
-## Getting there 
+## Getting There
 
-### by bus:
+### By Tram
 
-From **Uppsala main station** take **bus lines 4, 100 or 101** to **Campus Ultuna**. From there is is only a few hundred meters to the venue (see map above). 
+From **Gothenburg Central Station** (**Centralstationen**), take **tram 7** towards Tynnered. Alight at the **Medicinaregatan** stop. The venue is a short 200-meter walk from the tram stop. Other tram lines serving this stop include **lines 6 and 8** [102].
 
-Tickets for the bus can be bought in the UL app or directly from the bus drivers (card-only). For more information, please visit [https://ul.se](https://www.ul.se/). UL tickets can also be purchased through the SL app. To learn how, visit [https://sl.se](https://sl.se/biljetter/sortiment-och-regler/ul-biljetter/).
+Tickets can be purchased via the **Västtrafik To Go** app or with a debit/credit card from ticket machines inside the tram. For more information, please visit [https://www.vasttrafik.se](https://www.vasttrafik.se).
 
-### by car (from Stockholm):
+### From Landvetter Airport (GOT)
 
-Drive E4 to Uppsala. When you are close to Uppsala, the motorway exit is to the right, with signs “Uppsala S”. Continue to the roundabout and turn right at the third roundabout exit. Follow the signs to “Ultuna” (you will pass a bridge over the Fyris river). At the traffic light after the bridge, turn left. After about one kilometer, turn left at the sign “Djursjukhus”. You are now at the Ultuna campus site.
+The **Flygbussarna** (Airport Bus) provides a direct connection to **Korsvägen** and **Centralstationen** in the city centre. From either of these stops, you can transfer to a tram to reach Medicinaregatan. For timetables and tickets, visit [https://www.flygbussarna.se](https://www.flygbussarna.se).
 
-### by bus or train from Arlanda Airport:
+<hr>
 
-Buses and local trains go from the airport to the city centre of Uppsala. Find information and time tables at [https://sj.se](https://www.sj.se/), [https://sl.se](https://www.sl.se/), or [https://ul.se](https://www.ul.se/).
+## Accommodation in Gothenburg
 
-
-<br>
- {% include page_divider.html %}
-
-# Accomodation in Uppsala
-
-There are many different hotels in central Uppsala. A convenient hotel is the **Elite Hotel Academia** – right by the train station, very central and with good connections to SLU. The SBW24 had an arrangement with them for discounted rates on their rooms.
+Gothenburg offers a wide range of hotels. For convenient access to the venue, consider hotels located in the city centre near major transport hubs like **Centralstationen** (the central station) or **Brunnsparken**, which offer direct tram connections. The area around **Korsvägen** (near the Swedish Exhibition & Congress Centre and Liseberg) also provides excellent tram access via lines 6 and 8.
