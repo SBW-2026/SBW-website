@@ -375,6 +375,13 @@ pre code.hljs {
 	}
 }
 
+.page-content p,
+.post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
 /*
 *	Footer
 */
