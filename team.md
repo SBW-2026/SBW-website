@@ -38,7 +38,6 @@ main_nav: true
         University of Gothenburg <br>
         Department of Medical Biochemistry and Cell Biology <br>
         Linkedin: <a href="https://www.linkedin.com/in/adam-dziulko" target="_blank">@Adam Dziulko</a> <br>
-        ORCID: <a href="https://orcid.org/0000-0002-2264-7900" target="_blank">0000-0002-2264-7900</a>
         </p>
     </div>
 </div>
