@@ -18,7 +18,6 @@ main_nav: true
         Doctoral Student <br>
         University of Gothenburg <br>
         Department of Medical Biochemistry and Cell Biology <br>
-        ORCID: <a href="https://orcid.org/0009-0004-1653-168X" target="_blank">0009-0004-1653-168X</a>
         </p>
     </div>
 </div>
