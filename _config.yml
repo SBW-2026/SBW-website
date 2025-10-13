@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Swedish Bioinformatics Workshop 2026
+title: Swedish Bioinformatics<br>Workshop 2026
 subtitle: ""
 email: "SBW2026@biomedicine.gu.se"
 name: SBW2026
@@ -22,7 +22,7 @@ description: >
 url: "https://www.sbw2026.org/"
 
 # Hero/branding images
-cover: "/assets/Fyrisan_2018.jpg"  # TODO: Replace with a Gothenburg/Wallenberg hero image for 2026
+cover: "/assets/SBW_göteborg_2026.png"  
 logo:  "/assets/SBW2026_logo_blue.png"
 
 # Build settings

@@ -34,3 +34,14 @@ td,tr,
 th {
   vertical-align: middle;
 }
+
+.schedule-table tr:nth-child(odd),
+.schedule-table tr:nth-child(even) {
+  background-color: transparent;
+}
+.schedule-table th:nth-child(1),
+.schedule-table td:nth-child(1) { width: 20%; }   /* Time */
+.schedule-table th:nth-child(2),
+.schedule-table td:nth-child(2) { width: 43%; }   /* Activity */
+.schedule-table th:nth-child(3),
+.schedule-table td:nth-child(3) { width: 37%; }   /* Speakers */

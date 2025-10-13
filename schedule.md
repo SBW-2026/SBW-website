@@ -9,43 +9,46 @@ main_nav: true
 
 ### Day 1 — 12 March 2026
 
+{:.schedule-table}
 | Time       | Activity                                          | Speakers/chairs |
 |------------|---------------------------------------------------|-----------------|
 | 09:30–10:00 | Registration and coffee                          |                 |
-| 10:00–10:15 | Opening remarks                                   | TBA             |
-| 10:15–11:45 | Session: Translational research                   | Chairs TBA      |
-| 10:15–10:45 | Keynote                                           | TBA             |
-| 10:45–11:45 | Contributed talks (3 × 15 min)                    | TBA             |
-| 11:45–13:00 | Lunch break                                       |                 |
-| 13:00–14:45 | Session: Multi‑omics and single‑cell             | Chairs TBA      |
-| 13:00–13:30 | Keynote                                           | TBA             |
-| 13:30–14:45 | Contributed talks (3 × 15 min)                    | TBA             |
-| 14:45–16:00 | Poster session and exhibition with fika           |                 |
-| 16:00–17:15 | Session: Machine learning and AI                  | Chair TBA       |
-| 16:00–16:30 | Keynote                                           | TBA             |
-| 16:30–17:15 | Contributed talks (2 × 15 min)                    | TBA             |
-| 18:30–22:30 | Conference dinner (venue TBA)                     |                 |
-
----
+| 10:00–10:15 | Opening remarks                                  | TBA             |
+| 10:15–11:30 | **Session 1: Cancer Genomics**                   | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (10:15-10:45)*      | Caroline Heckman (UH)|
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+| 11:30–12:00 | Break                                            |                 |
+| 12:00–13:15 | **Session 2: Multi‑omics data integration**      | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (12:00–12:30)*      | Cecilia Lindskog (UU)|
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+| 13:15–14:15 | Lunch break                                      |                 |
+| 14:15–15:30 | **Session 3: Machine Learning and AI**           | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:15–14:45)*      | Jacob Vogel (LU)|
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+| 15:30–16:00 | Break                                            |                 |
+| 16:00–18:00 | Poster session                                   |                 |
+| 18:30–22:00 | Dinner and social event at Universeum            |                 |
 
 ### Day 2 — 13 March 2026
 
-| Time       | Activity                                          | Speakers/chairs |
-|------------|---------------------------------------------------|-----------------|
-| OBS! Variable | Parallel workshops                             |                 |
-| 08:30–11:00 | Academic writing (hands‑on) — TBC                 |                 |
-| 09:00–11:00 | Visualising science (hands‑on) — TBC              |                 |
-| 09:00–11:00 | Data management (hands‑on) — TBC                  |                 |
-| 09:00–11:00 | Workflow engines (Nextflow/Snakemake) — TBC       |                 |
-| 11:00–11:30 | Fika                                              |                 |
-| 11:30–12:45 | Session: Metagenomics                             | Chair TBA       |
-| 11:30–12:00 | Keynote                                           | TBA             |
-| 12:00–12:45 | Contributed talks (2 × 15 min)                    | TBA             |
-| 12:45–14:00 | Lunch                                             |                 |
-| 14:00–15:00 | Session: Tools and software 1                     | Chair TBA       |
-| 14:00–15:00 | Talks TBA                                         | TBA             |
-| 15:00–15:30 | Fika                                              |                 |
-| 15:30–16:45 | Session: Tools and software 2                     | Chair TBA       |
-| 15:30–16:00 | Keynote                                           | TBA             |
-| 16:00–16:45 | Contributed talks (2 × 15 min)                    | TBA             |
-| 16:45–17:00 | Poster prizes and closing remarks                 |                 |
+{:.schedule-table}
+| Time        | Activity                                          | Speakers/chairs |
+|-------------|---------------------------------------------------|-----------------|
+| 09:00–11:15 | **Parallel workshops**                            |                 |
+|             | Academic writing                                  |                 |
+|             | Visualising science                               |                 |
+|             | Data management                                   |                 |
+|             | Bacterial Genomics                                |                 |
+| 11:15–11:45 | Break                                             |                 |
+| 11:45–13:00 | **Session 4: Translational Research**             | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (11:45–12:15)*       | Johan Lindberg (KI)|
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+| 13:00–14:00 | Lunch                                             |                 |
+| 14:00–15:15 | **Session 5: Metagenomics**                       | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:00–14:30)*       | Frank Møller Aarestrup (DTU)|
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+| 15:15–15:45 | Break                                             |                 |
+| 15:45–17:00 | **Session 6: Single-cell Technologies**           | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (15:45–16:15)*       | Joakim Lundeberg (KTH)|
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+| 17:00–17:15 | Poster prizes and closing remarks                 |                 |
