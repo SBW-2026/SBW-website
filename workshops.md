@@ -6,13 +6,13 @@ main_nav: true
 ---
 
 ## Data Management
- {% include page_divider.html %}
+<hr>
 
 ## Academic Writing
- {% include page_divider.html %}
+<hr>
 
 ## Visualizing Science
- {% include page_divider.html %}
+<hr>
  
 ## Bacterial Genomics
- {% include page_divider.html %}
+<hr>
