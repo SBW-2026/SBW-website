@@ -11,7 +11,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Tania_Peniche.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Tania_Peniche.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Tânia Carneiro Peniche</strong> <br>
@@ -28,9 +28,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <!-- TODO: Replace placeholder with actual photo when uploaded -->
-        <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Adam_Dziulko.png" alt="Image" style="width: 100%;"> -->
+        <img src="{{ site.baseurl }}/assets/team/Adam_Dziulko.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Adam Dziulko</strong> <br>
@@ -50,7 +48,7 @@ main_nav: true
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <!-- TODO: Replace placeholder with actual photo when uploaded -->
         <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Alan_Backerholm.png" alt="Image" style="width: 100%;"> -->
+        <!-- <img src="{{ site.baseurl }}/assets/team/Alan_Backerholm.jpg" alt="Image" style="width: 100%;"> -->
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Alan Bäckerholm</strong> <br>
@@ -68,7 +66,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Alice_Schiller.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Alice_Schiller.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Alice Schiller</strong> <br>
@@ -88,7 +86,7 @@ main_nav: true
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <!-- TODO: Replace placeholder with actual photo when uploaded -->
         <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Arne_Claeys.png" alt="Image" style="width: 100%;"> -->
+        <!-- <img src="{{ site.baseurl }}/assets/team/Arne_Claeys.jpg" alt="Image" style="width: 100%;"> -->
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Arne Claeys</strong> <br>
@@ -109,7 +107,7 @@ main_nav: true
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <!-- TODO: Replace placeholder with actual photo when uploaded -->
         <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Biel_Garcias_Puigserver.png" alt="Image" style="width: 100%;"> -->
+        <!-- <img src="{{ site.baseurl }}/assets/team/Biel_Garcias_Puigserver.jpg" alt="Image" style="width: 100%;"> -->
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Biel Garcias Puigserver</strong> <br>
@@ -128,7 +126,7 @@ main_nav: true
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <!-- TODO: Replace placeholder with actual photo when uploaded -->
         <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Danel_Olaverri_Mendizabal.png" alt="Image" style="width: 100%;"> -->
+        <!-- <img src="{{ site.baseurl }}/assets/team/Danel_Olaverri_Mendizabal.jpg" alt="Image" style="width: 100%;"> -->
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Danel Olaverri Mendizabal</strong> <br>
@@ -148,7 +146,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Hana_Komic.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Hana_Komic.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Hana Komic</strong> <br>
@@ -166,7 +164,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Kerryn_Elliott.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Kerryn_Elliott.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Kerryn Elliott</strong> <br>
@@ -186,7 +184,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Klara_Esbo.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Klara_Esbo.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Klara Esbo</strong> <br>
@@ -204,7 +202,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Linnea_Ogren.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Linnea_Ogren.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Linnea Ögren</strong> <br>
@@ -225,7 +223,7 @@ main_nav: true
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <!-- TODO: Replace placeholder with actual photo when uploaded -->
         <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Markus_Lindberg.png" alt="Image" style="width: 100%;"> -->
+        <!-- <img src="{{ site.baseurl }}/assets/team/Markus_Lindberg.jpg" alt="Image" style="width: 100%;"> -->
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Markus Lindberg</strong> <br>
@@ -246,7 +244,7 @@ main_nav: true
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <!-- TODO: Replace placeholder with actual photo when uploaded -->
         <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Marlene_Grimmer.png" alt="Image" style="width: 100%;"> -->
+        <!-- <img src="{{ site.baseurl }}/assets/team/Marlene_Grimmer.jpg" alt="Image" style="width: 100%;"> -->
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Marlene Grimmer</strong> <br>
@@ -284,7 +282,7 @@ main_nav: true
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <!-- TODO: Replace placeholder with actual photo when uploaded -->
         <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Tobias_Osterlund.png" alt="Image" style="width: 100%;"> -->
+        <!-- <img src="{{ site.baseurl }}/assets/team/Tobias_Osterlund.jpg" alt="Image" style="width: 100%;"> -->
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Tobias Österlund</strong> <br>
@@ -304,7 +302,7 @@ main_nav: true
     <div style="flex: 0 0 200px; padding-right: 10px;">
         <!-- TODO: Replace placeholder with actual photo when uploaded -->
         <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Yajuan_Huang.png" alt="Image" style="width: 100%;"> -->
+        <!-- <img src="{{ site.baseurl }}/assets/team/Yajuan_Huang.jpg" alt="Image" style="width: 100%;"> -->
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Yajuan Huang</strong> <br>
