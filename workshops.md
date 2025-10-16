@@ -5,26 +5,14 @@ permalink: /workshops/
 main_nav: true
 ---
 
-# Data Management
-
-<br>
+## Data Management
  {% include page_divider.html %}
-<br>
 
-# Academic Writing
-
-<br>
+## Academic Writing
  {% include page_divider.html %}
-<br>
 
-# Visualizing Science
-
-<br>
+## Visualizing Science
  {% include page_divider.html %}
-<br>
-
-# Bacterial Genomics
-
-<br>
+ 
+## Bacterial Genomics
  {% include page_divider.html %}
-<br>
