@@ -37,7 +37,7 @@ main_nav: true
         <p><strong>Alan Bäckerholm</strong> <br>
         Doctoral Student <br>
         University of Gothenburg <br>
-        Department of Infectious Diseases, Institute of Biomedicine <br>
+        Department of Infectious Diseases <br>
         ORCID: <a href="https://orcid.org/0000-0002-8590-1195" target="_blank">0000-0002-8590-1195</a>
         </p>
     </div>
