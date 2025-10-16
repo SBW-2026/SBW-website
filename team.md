@@ -67,15 +67,14 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <!-- TODO: Replace placeholder with actual photo when uploaded -->
-        <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Arne_Claeys.jpg" alt="Image" style="width: 100%;"> -->
+        <img src="{{ site.baseurl }}/assets/team/Arne_Claeys.png" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Arne Claeys</strong> <br>
         Postdoctoral Researcher <br>
         University of Gothenburg <br>
         Department of Medical Biochemistry and Cell Biology <br>
+        Linkedin: <a href="https://www.linkedin.com/in/arne-claeys-27b21515a/" target="_blank">@Arne Claeys</a>
         Google Scholar: <a href="https://scholar.google.com/citations?user=Z2AQryAAAAAJ" target="_blank">Arne Claeys</a> <br>
         ORCID: <a href="https://orcid.org/0000-0001-6990-1569" target="_blank">0000-0001-6990-1569</a>
         </p>
@@ -96,7 +95,8 @@ main_nav: true
         <p><strong>Biel Garcias Puigserver</strong> <br>
         Postdoctoral Researcher <br>
         University of Gothenburg <br>
-        Department of Microbiology and Immunology
+        Department of Microbiology and Immunology <br>
+        Linkedin: <a href="https://www.linkedin.com/in/biel-garcias-319326101/" target="_blank">@Biel Garcias</a>
         </p>
     </div>
 </div>
