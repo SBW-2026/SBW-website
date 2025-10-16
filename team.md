@@ -74,7 +74,7 @@ main_nav: true
         Postdoctoral Researcher <br>
         University of Gothenburg <br>
         Department of Medical Biochemistry and Cell Biology <br>
-        Linkedin: <a href="https://www.linkedin.com/in/arne-claeys-27b21515a/" target="_blank">@Arne Claeys</a>
+        Linkedin: <a href="https://www.linkedin.com/in/arne-claeys-27b21515a/" target="_blank">@Arne Claeys</a> <br>
         Google Scholar: <a href="https://scholar.google.com/citations?user=Z2AQryAAAAAJ" target="_blank">Arne Claeys</a> <br>
         ORCID: <a href="https://orcid.org/0000-0001-6990-1569" target="_blank">0000-0001-6990-1569</a>
         </p>
