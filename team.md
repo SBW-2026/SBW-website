@@ -188,7 +188,7 @@ main_nav: true
         <img src="{{ site.baseurl }}/assets/team/Linnea_Ogren.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
-        <p><strong>Linnea Ögren</strong> <br>
+        <p><strong>Linnéa Ögren</strong> <br>
         Doctoral Student in Bioinformatics <br>
         University of Gothenburg <br>
         Department of Medical Biochemistry and Cell Biology <br>
