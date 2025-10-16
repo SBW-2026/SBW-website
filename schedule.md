@@ -22,12 +22,12 @@ main_nav: true
 |             | &nbsp;&nbsp;&nbsp;• *Keynote (12:00–12:30)*      | TBA             |
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 13:15–14:15 | Lunch break                                      |                 |
-| 14:15–15:30 | **Session 3: Machine Learning and AI**           | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:15–14:45)*      | Jacob Vogel (LU)|
+| 14:15–15:30 | **Session 3: Single-cell Technologies**           | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:15–14:45)*      | Joakim Lundeberg (KTH)|
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 15:30–16:00 | Break                                            |                 |
 | 16:00–18:00 | Poster session                                   |                 |
-| 18:30–22:00 | Dinner and social event at Universeum            |                 |
+| 18:30–22:00 | Dinner and social event                          |                 |
 
 ### Day 2 — 13 March 2026
 
@@ -48,7 +48,7 @@ main_nav: true
 |             | &nbsp;&nbsp;&nbsp;• *Keynote (14:00–14:30)*       | TBA             |
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 15:15–15:45 | Break                                             |                 |
-| 15:45–17:00 | **Session 6: Single-cell Technologies**           | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (15:45–16:15)*       | Joakim Lundeberg (KTH)|
+| 15:45–17:00 | **Session 6: Machine Learning and AI**           | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (15:45–16:15)*       | Jacob Vogel (LU)|
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 17:00–17:15 | Poster prizes and closing remarks                 |                 |
