@@ -7,23 +7,6 @@ main_nav: true
 
 <!-- Team photo of SBW2026: will come later -->
 
-<!-- member: Main Organiser -->
-
-<div style="display: flex;align-items: center;">
-    <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Tania_Peniche.jpg" alt="Image" style="width: 100%;">
-    </div>
-    <div style="flex: 1; padding-left: 10px;">
-        <p><strong>Tânia Carneiro Peniche</strong> <br>
-        Doctoral Student <br>
-        University of Gothenburg <br>
-        Department of Medical Biochemistry and Cell Biology <br>
-        </p>
-    </div>
-</div>
-
-<br>
-
 <!-- member: -->
 
 <div style="display: flex;align-items: center;">
@@ -270,6 +253,23 @@ main_nav: true
         University of Gothenburg <br>
         Department of Medical Biochemistry and Cell Biology <br>
         Linkedin: <a href="https://se.linkedin.com/in/mercedes-dalman-9645bb1a1" target="_blank">@Mercedes Dalman</a>
+        </p>
+    </div>
+</div>
+
+<br>
+
+<!-- member: -->
+
+<div style="display: flex;align-items: center;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
+        <img src="{{ site.baseurl }}/assets/team/Tania_Peniche.jpg" alt="Image" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <p><strong>Tânia Carneiro Peniche</strong> <br>
+        Doctoral Student <br>
+        University of Gothenburg <br>
+        Department of Medical Biochemistry and Cell Biology <br>
         </p>
     </div>
 </div>
