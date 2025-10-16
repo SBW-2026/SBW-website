@@ -43,7 +43,7 @@ main_nav: true
  {% include page_divider.html %}
 <br>
 
-# Fourth Topic to be announced
+# Bacterial Genomics
 
 <a href="">
   <img src="{{ site.baseurl }}/assets/sponsors/" alt="">
