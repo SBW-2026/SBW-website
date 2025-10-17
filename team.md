@@ -15,7 +15,7 @@ main_nav: true
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Adam Dziulko</strong> <br>
-        Postdoctoral Fellow in Computational Biology <br>
+        Postdoctoral Fellow <br>
         University of Gothenburg <br>
         Department of Medical Biochemistry and Cell Biology <br>
         Linkedin: <a href="https://www.linkedin.com/in/adam-dziulko" target="_blank">@Adam Dziulko</a> <br>
@@ -189,7 +189,7 @@ main_nav: true
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Linnéa Ögren</strong> <br>
-        Doctoral Student in Bioinformatics <br>
+        Doctoral Student <br>
         University of Gothenburg <br>
         Department of Medical Biochemistry and Cell Biology <br>
         Linkedin: <a href="https://se.linkedin.com/in/linneaogren" target="_blank">@Linnéa Ögren</a> <br>
