@@ -5,8 +5,6 @@ permalink: /registration/
 main_nav: true
 ---
 
-# Abstract Submission & Registration
-
 Abstract submission and registration for **SBW2026** are now open.
 
 **[Register here](https://www.lyyti.in/Swedish_Bioinformatics_Workshop_2026_4633)**.  
@@ -14,8 +12,7 @@ Abstract submission and registration for **SBW2026** are now open.
 Both *in-person* and *online* participation options are available.  
 **Note:** Abstract submission is included within the registration form.
 
-<br>
-{% include page_divider.html %}
+<hr>
 
 ## Registration Deadlines
 
