@@ -206,7 +206,7 @@ pre code.hljs {
   	a {
 	    display: inline-block;
 	    @include media ($tablet) {
-	      padding-right: 1.5em;
+	      padding-right: 1em;
 	    }
 	  }
 	  &:last-child a {
