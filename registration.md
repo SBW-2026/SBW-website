@@ -22,8 +22,6 @@ Both *in-person* and *online* participation options are available.
 
 Cancellations are free until **23 February 2026**.
 
-<br>
-
 ## Registration Fees
 
 <table>
@@ -63,15 +61,13 @@ Cancellations are free until **23 February 2026**.
   </tbody>
 </table>
 
-<br>
-
 ## No-show Fees
 
 Participation is free of charge for students and postdocs at Swedish Universities.  
 If you register as an on-site participant and do not attend (no-show), your institution will be invoiced **1,000 SEK**. Other academic and non-academic participants will be invoiced for the registration fee. Please provide a valid invoice address during registration, including any required reference codes.
 
-Cancellations are free until **23 February 2026**. Please email <a href="mailto:info@sbw2026.org" itemprop="email">info@sbw2026.org</a>.
+Cancellations are free until **23 February 2026**. Please email <a href="mailto:SBW2026@biomedicine.gu.se">SBW2026@biomedicine.gu.se</a>.
 
-{% include page_divider.html %}
+<hr>
 
 **If you have any questions regarding registration or abstract submission, please contact us at <a href="mailto:SBW2026@biomedicine.gu.se">SBW2026@biomedicine.gu.se</a>.**
