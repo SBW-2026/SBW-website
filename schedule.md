@@ -41,7 +41,7 @@ main_nav: true
 |             | Bacterial Genomics                                |                 |
 | 11:15–11:45 | Break                                             |                 |
 | 11:45–13:00 | **Session 4: Translational Research**             | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (11:45–12:15)*       | TBA             |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (11:45–12:15)*       | Ann Nordgren (KI) |
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 13:00–14:00 | Lunch                                             |                 |
 | 14:00–15:15 | **Session 5: Metagenomics**                       | Chair TBA       |
