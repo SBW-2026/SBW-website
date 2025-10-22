@@ -15,16 +15,19 @@ main_nav: true
 | 09:30–10:00 | Registration and coffee                          |                 |
 | 10:00–10:15 | Opening remarks                                  | TBA             |
 | 10:15–11:30 | **Session 1: Cancer Genomics**                   | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (10:15-10:45)*      | Caroline Heckman (UH)|
-|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (10:15–10:40)*      | Caroline Heckman (UH)|
+|             | &nbsp;&nbsp;&nbsp;• *Keynote Gothenburg (10:40–11:05)* | TBA        |
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (2 × 13 min)* | TBA         |
 | 11:30–12:00 | Break                                            |                 |
-| 12:00–13:15 | **Session 2: Metagenomics**                      | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (12:00–12:30)*      | TBA             |
-|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+| 12:00–13:15 | **Session 2: Metagenomics & Microbiome**         | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (12:00–12:25)*      | TBA             |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote Gothenburg (12:25–12:50)* | TBA        |
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (2 × 13 min)* | TBA         |
 | 13:15–14:15 | Lunch break                                      |                 |
 | 14:15–15:30 | **Session 3: Single-cell Technologies**          | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:15–14:45)*      | Joakim Lundeberg (KTH)|
-|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:15–14:40)*      | Joakim Lundeberg (KTH)|
+|             | &nbsp;&nbsp;&nbsp;• *Keynote Gothenburg (14:40–15:05)* | TBA        |
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (2 × 13 min)* | TBA         |
 | 15:30–16:00 | Break                                            |                 |
 | 16:00–18:00 | Poster session                                   |                 |
 | 18:30–22:00 | Dinner and social event                          |                 |
@@ -41,14 +44,17 @@ main_nav: true
 |             | Bacterial Genomics                                |                 |
 | 11:15–11:45 | Break                                             |                 |
 | 11:45–13:00 | **Session 4: Multi‑omics data integration**       | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (11:45–12:15)*       | Ana Conesa (CSIC)  |
-|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (11:45–12:10)*       | Ana Conesa (CSIC)|
+|             | &nbsp;&nbsp;&nbsp;• *Keynote Gothenburg (12:10–12:35)* | TBA        |
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (2 × 13 min)* | TBA         |
 | 13:00–14:00 | Lunch                                             |                 |
 | 14:00–15:15 | **Session 5: Translational Research**             | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:00–14:30)*       | Ann Nordgren (KI) |
-|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:00–14:25)*       | Ann Nordgren (KI)|
+|             | &nbsp;&nbsp;&nbsp;• *Keynote Gothenburg (14:25–14:50)* | TBA        |
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (2 × 13 min)* | TBA         |
 | 15:15–15:45 | Break                                             |                 |
 | 15:45–17:00 | **Session 6: Machine Learning and AI**            | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (15:45–16:15)*       | Jacob Vogel (LU)|
-|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (15:45–16:10)*       | Jacob Vogel (LU)|
+|             | &nbsp;&nbsp;&nbsp;• *Keynote Gothenburg (16:10–16:35)* | TBA        |
+|             | &nbsp;&nbsp;&nbsp;• *Contributed talks (2 × 13 min)* | TBA         |
 | 17:00–17:15 | Poster prizes and closing remarks                 |                 |
