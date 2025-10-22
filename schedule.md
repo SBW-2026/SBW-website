@@ -18,11 +18,11 @@ main_nav: true
 |             | &nbsp;&nbsp;&nbsp;• *Keynote (10:15-10:45)*      | Caroline Heckman (UH)|
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 11:30–12:00 | Break                                            |                 |
-| 12:00–13:15 | **Session 2: Multi‑omics data integration**      | Chair TBA       |
+| 12:00–13:15 | **Session 2: Metagenomics**                      | Chair TBA       |
 |             | &nbsp;&nbsp;&nbsp;• *Keynote (12:00–12:30)*      | TBA             |
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 13:15–14:15 | Lunch break                                      |                 |
-| 14:15–15:30 | **Session 3: Single-cell Technologies**           | Chair TBA       |
+| 14:15–15:30 | **Session 3: Single-cell Technologies**          | Chair TBA       |
 |             | &nbsp;&nbsp;&nbsp;• *Keynote (14:15–14:45)*      | Joakim Lundeberg (KTH)|
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 15:30–16:00 | Break                                            |                 |
@@ -40,15 +40,15 @@ main_nav: true
 |             | Data management                                   |                 |
 |             | Bacterial Genomics                                |                 |
 | 11:15–11:45 | Break                                             |                 |
-| 11:45–13:00 | **Session 4: Translational Research**             | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (11:45–12:15)*       | Ann Nordgren (KI) |
+| 11:45–13:00 | **Session 4: Multi‑omics data integration**       | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (11:45–12:15)*       | Ana Conesa (CSIC)  |
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 13:00–14:00 | Lunch                                             |                 |
-| 14:00–15:15 | **Session 5: Metagenomics**                       | Chair TBA       |
-|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:00–14:30)*       | TBA             |
+| 14:00–15:15 | **Session 5: Translational Research**             | Chair TBA       |
+|             | &nbsp;&nbsp;&nbsp;• *Keynote (14:00–14:30)*       | Ann Nordgren (KI) |
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 15:15–15:45 | Break                                             |                 |
-| 15:45–17:00 | **Session 6: Machine Learning and AI**           | Chair TBA       |
+| 15:45–17:00 | **Session 6: Machine Learning and AI**            | Chair TBA       |
 |             | &nbsp;&nbsp;&nbsp;• *Keynote (15:45–16:15)*       | Jacob Vogel (LU)|
 |             | &nbsp;&nbsp;&nbsp;• *Contributed talks (3 × 15 min)* | TBA             |
 | 17:00–17:15 | Poster prizes and closing remarks                 |                 |
