@@ -19,7 +19,7 @@ SBW2026 will take place in Gothenburg at the Conference Centre Wallenberg, part 
 
 ### By Tram
 
-From **Gothenburg Central Station** (**Centralstationen**), take **tram 7** towards Tynnered. Alight at the **Medicinaregatan** stop. The venue is a short 200-meter walk from the tram stop. Other tram lines serving this stop include **lines 6 and 8** [102].
+From **Gothenburg Central Station** (**Centralstationen**), take **tram 7** towards Tynnered. Alight at the **Medicinaregatan** stop. The venue is a short 200-meter walk from the tram stop. Other tram lines serving this stop include **lines 6 and 8**.
 
 Tickets can be purchased via the **Västtrafik To Go** app or with a debit/credit card from ticket machines inside the tram. For more information, please visit [https://www.vasttrafik.se](https://www.vasttrafik.se).
 
