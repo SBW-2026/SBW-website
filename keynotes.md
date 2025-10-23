@@ -48,7 +48,7 @@ main_nav: true
 
 <div class="speaker-info">
     <div class="speaker-text">
-        <p><strong><center><a href="https://portal.research.lu.se/en/persons/jacob-vogel/" target="_blank"> Jacob Vogel, Lund University, Sweden</a></center></strong></p>
+        <p><strong><center><a href="https://www.scilifelab.se/researchers/jacob-vogel/" target="_blank"> Jacob Vogel, Lund University, Sweden</a></center></strong></p>
       <p><i><center>Keynote speaker for the AI and Machine Learning session</center></i></p>
         <p>Established 2023 in Lund University, Jacob Vogel and his team focuses on  neurobiology and Alzheimer's research by implementing cutting-edge data science methodologies to elucidate neurodegenerative progression and pathogenesis. More specifically, he integrates neuroimaging and multi-omics data and applies supervised and unsupervised models to decipher tau protein distribution. He is part of the BioFINDER consortium, one of the world's foremost efforts to tackle neurodegenerative diseases with extensive data collection.</p>
     </div>
