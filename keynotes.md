@@ -11,7 +11,7 @@ main_nav: true
     <div class="speaker-text">
         <p><strong><center><a href="https://www.csic.es/en/node/168010" target="_blank"> Ana Conesa, Institute for Integrative Systems Biology, Spanish National Research Council</a></center></strong></p>
       <p><i><center>Keynote speaker for the Multi-omics Data Integration session</center></i></p>
-        <p>Professor Ana Conesa and her group at the Spanish National Research Council creates the interface that translates raw big data into biological conclusions. Bioinformatical tool development is an increasingly crucial part of modern life science and will grow with the necessity for integrating multimodal data. Ana Conesa and her team have decided to address this necessity head-on by developing tools such as PaintOmics, MultiBaC, MORE, and more.</p>
+        <p>Professor Ana Conesa at the Spanish National Research Council creates the interface that translates raw big data into biological conclusions. Bioinformatical tool development is an increasingly crucial part of modern life science and will grow with the necessity for integrating multimodal data. Ana Conesa and her team have decided to address this necessity head-on by developing tools such as PaintOmics, MultiBaC, MORE, and more.</p>
     </div>
 </div>
 
