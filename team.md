@@ -107,9 +107,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <!-- TODO: Replace placeholder with actual photo when uploaded -->
-        <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Danel_Olaverri_Mendizabal.jpg" alt="Image" style="width: 100%;"> -->
+        <img src="{{ site.baseurl }}/assets/team/DanelOlaverri.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Danel Olaverri Mendizabal</strong> <br>
