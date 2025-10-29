@@ -225,7 +225,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <img src="{{ site.baseurl }}/assets/team/Marlene_Grimmer.png.png" alt="Image" style="width: 100%;">
+        <img src="{{ site.baseurl }}/assets/team/Marlene_Grimmer.png" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Marlene Grimmer</strong> <br>
