@@ -15,12 +15,12 @@ main_nav: true
 | 09:30–10:00 | Registration and coffee                          |                 |
 | 10:00–10:15 | Opening remarks                                  | TBA             |
 | 10:15–11:30 | **Session 1: Cancer Genomics**                   | Chair TBA       |
-|             | • *Keynote (10:15–10:40)*      | Caroline Heckman (UH)|
+|             | • *Keynote (10:15–10:40)*                        | Caroline Heckman (UH)|
 |             | • *Keynote Gothenburg (10:40–11:05)* | TBA        |
 |             | • *Contributed talks (2 × 13 min)* | TBA         |
 | 11:30–12:00 | Break                                            |                 |
 | 12:00–13:15 | **Session 2: Metagenomics & Microbiome**         | Chair TBA       |
-|             | • *Keynote (12:00–12:25)*      | TBA             |
+|             | • *Keynote (12:00–12:25)*      | Stefanie Prast-Nielsen (KI)       |
 |             | • *Keynote Gothenburg (12:25–12:50)* | TBA        |
 |             | • *Contributed talks (2 × 13 min)* | TBA         |
 | 13:15–14:15 | Lunch break                                      |                 |
