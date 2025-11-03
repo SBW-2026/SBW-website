@@ -14,11 +14,11 @@ Both *in-person* and *online* participation options are available.
 
 <hr>
 
-## Registration Deadlines
+## Deadlines
 
-- **Early bird:** 1 December 2025
+- **Early bird registration:** 1 December 2025
 - **Abstract submission:** 12 December 2025
-- **Regular:** 12 January 2026  
+- **Regular registration:** 12 January 2026  
 - **Online participant:** 26 February 2026  
 
 Cancellations are free until **23 February 2026**.
