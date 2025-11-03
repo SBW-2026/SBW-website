@@ -16,7 +16,8 @@ Both *in-person* and *online* participation options are available.
 
 ## Registration Deadlines
 
-- **Early bird:** 1 December 2025  
+- **Early bird:** 1 December 2025
+- **Abstract submission:** 12 December 2025
 - **Regular:** 12 January 2026  
 - **Online participant:** 26 February 2026  
 
