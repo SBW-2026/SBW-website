@@ -35,7 +35,7 @@ Cancellations are free until **23 February 2026**.
   </thead>
   <tbody>
     <tr>
-      <td>Student / Postdoc at a Swedish University</td>
+      <td>Student / Postdoc at a Nordic Country University</td>
       <td>Free</td>
       <td>Free</td>
     </tr>
@@ -50,7 +50,7 @@ Cancellations are free until **23 February 2026**.
       <td>3,000 SEK</td>
     </tr>
     <tr>
-      <td>Online Student / Postdoc at a Swedish University</td>
+      <td>Online Student / Postdoc at a Nordic Country University</td>
       <td>Free</td>
       <td>Free</td>
     </tr>
@@ -64,7 +64,7 @@ Cancellations are free until **23 February 2026**.
 
 ## No-show Fees
 
-Participation is free of charge for students and postdocs at Swedish Universities.  
+Participation is free of charge for students and postdocs at Nordic Universities.  
 If you register as an on-site participant and do not attend (no-show), your institution will be invoiced **1,000 SEK**. Other academic and non-academic participants will be invoiced for the registration fee. Please provide a valid invoice address during registration, including any required reference codes.
 
 Cancellations are free until **23 February 2026**. To cancel, simply edit your registration using the link you received.
