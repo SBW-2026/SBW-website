@@ -45,11 +45,11 @@ main_nav: true
 | 11:15–11:45 | Break                                             |                 |
 | 11:45–13:00 | **Session 4: Multi-omics data integration**             | Chair TBA       |
 | *Keynote (11:45–12:10)* | *"Advancing multi-omics data integration through tool development"* | Ana Conesa (CSIC) |
-|*Keynote Gothenburg (12:10–12:35)*| *"Multi-omics framework for cardiometabolic disease"* | Muhammad Arif (University of Gothenburg) |
+|*Keynote Gothenburg (12:10–12:35)*| *"Integrative Multi-Omics Frameworks for Understanding the Molecular Mechanism of Cardiometabolic Disease Progression"* | Muhammad Arif (University of Gothenburg) |
 | *12:35-13:00* | *Contributed talks (2 × 12 min)* | TBA             |
 | 13:00–14:00 | Lunch                                             |                 |
 | 14:00–15:15 | **Session 5: Translational Research**                       | Chair TBA       |
-| *Keynote (14:00–14:25)* | *"Accelerating rare disease diagnostics through genomic collaboration"* | Ann Nordgren (Karolinska Institute and University of Gothenburg) |
+| *Keynote (14:00–14:25)* | *"Accelerating rare disease diagnostics through multidisciplinary collaboration"* | Ann Nordgren (Karolinska Institute and University of Gothenburg) |
 |*Keynote Gothenburg (14:25–14:50)*| *"Genomic insights into small intestine neuroendocrine tumours"* | Erik Larsson Lekholm (University of Gothenburg) |
 | *14:50-15:15* | *Contributed talks (2 × 12 min)* | TBA             |
 | 15:15–15:45 | Break                                             |                 |
