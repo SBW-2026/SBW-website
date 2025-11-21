@@ -5,7 +5,7 @@ permalink: /sponsors/
 main_nav: true
 ---
 
-We thank all the <b> sponsors and other funding sources</b> that made SBW2024 possible:
+We thank all the <b> sponsors and other funding sources</b> that made SBW2026 possible:
 
 <div class="image-grid">
     <a href="https://www.scilifelab.se/">
