@@ -18,6 +18,19 @@ We thank all the <b> sponsors and other funding sources</b> that made SBW2026 po
 
 <br>
 
+<p style="text-align: center;">Hosted in collaboration with:</p>
+
+<div class="image-grid">
+    <a href="https://goteborg.se/">
+    <img src="{{ site.baseurl }}/assets/sponsors/logo-gbg.svg" alt="Göteborgs stad">
+    </a>
+    <a href="https://www.vgregion.se/">
+    <img src="{{ site.baseurl }}/assets/sponsors/OIP.jpg" alt="Västra Götaland Region">
+    </a>
+</div>
+
+<br>
+
 <h4>Sponsorship</h4>
 
 This partnership not only underscores our events prestige but also offers our sponsors unparalleled access to a diverse and engaged community at the forefront of bioinformatics research and development.
