@@ -19,7 +19,7 @@ main_nav: true
 | *Keynote Gothenburg 10:40-11:05* | *"Clonal hematopoiesis - a precursor for hematological malignancies"* | Abhishek Niroula (University of Gothenburg) | 
 | *11:05-11:30*  | *Contributed talks (2 × 12 min)* | TBA             |
 | 11:30–12:00 | Break                                            |                 |
-| 14:00–15:15 | **Session 2: Translational Research**                       | Chair TBA       |
+| 12:00–13:15 | **Session 2: Translational Research**                       | Chair TBA       |
 | *Keynote 12:00–12:25* | *"Accelerating rare disease diagnostics through multidisciplinary collaboration"* | Ann Nordgren (Karolinska Institute and University of Gothenburg) |
 | *Keynote Gothenburg 12:25–12:50*| *"Genomic insights into small intestine neuroendocrine tumours"* | Erik Larsson Lekholm (University of Gothenburg) |
 | *12:50-13:15* | *Contributed talks (2 × 12 min)* | TBA             |
@@ -48,7 +48,7 @@ main_nav: true
 |*Keynote Gothenburg 12:10–12:35*| *"Integrative Multi-Omics Frameworks for Understanding the Molecular Mechanism of Cardiometabolic Disease Progression"* | Muhammad Arif (University of Gothenburg) |
 | *12:35-13:00* | *Contributed talks (2 × 12 min)* | TBA             |
 | 13:00–14:00 | Lunch                                             |                 |
-| 12:00–13:15 | **Session 5: Metagenomics & Microbiome**      | Chair TBA       |
+| 14:00–15:15 | **Session 5: Metagenomics & Microbiome**      | Chair TBA       |
 | *Keynote 14:00-14:25* | *"The microbiota-gut-brain axis in epilepsy"*      | Stefanie Prast-Nielsen (Karolinska Institute) |
 | *Keynote Gothenburg 14:25-14:50* | *"The making of a pathogen"* | Astrid von Mentzer (University of Gothenburg)             |
 | *14:50-15:15* | *Contributed talks (2 × 12 min)* | TBA             |
