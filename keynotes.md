@@ -43,7 +43,7 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
- <!-- keynote: -->
+<!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
@@ -56,7 +56,7 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
- <!-- keynote: -->
+<!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
@@ -69,7 +69,7 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
-  <!-- keynote: -->
+<!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
@@ -82,7 +82,7 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
-  <!-- keynote: -->
+<!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
@@ -95,7 +95,7 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
-  <!-- keynote: -->
+<!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
@@ -108,7 +108,7 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
-   <!-- keynote: -->
+<!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
@@ -121,7 +121,7 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
-    <!-- keynote: -->
+<!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
@@ -134,7 +134,7 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
-   <!-- keynote: -->
+<!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
