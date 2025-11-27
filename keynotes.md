@@ -82,12 +82,25 @@ main_nav: true
 <br>
  {% include page_divider.html %}
 
+ <!-- keynote: -->
+
+<div class="speaker-info">
+    <div class="speaker-text">
+        <p><strong><center><a href="" target="_blank"> Fazeleh Hoseini, AI Sweden</a></center></strong></p>
+      <p><i><center>Keynote speaker for the Machine Learning and AI session</center></i></p>
+        <p>Fazeleh Hoseini holds a PhD in Data Science and AI and has a professional background in the automotive sector. In recent years, her work has centered on AI model privacy, where she leads the development of LeakPro, an open-source tool for stress-testing machine learning models and assessing privacy risks. She is also engaged in several national initiatives, including TRE4HealthAI, which investigates Trusted Research Environments for the secondary use of health data within the framework of the European Health Data Space (EHDS).</p>
+    </div>
+</div>
+
+<br>
+ {% include page_divider.html %}
+
 <!-- keynote: -->
 
 <div class="speaker-info">
     <div class="speaker-text">
         <p><strong><center><a href="https://www.scilifelab.se/researchers/jacob-vogel/" target="_blank"> Jacob Vogel, Lund University, Sweden</a></center></strong></p>
-      <p><i><center>Keynote speaker for the AI and Machine Learning session</center></i></p>
+      <p><i><center>Keynote speaker for the Machine Learning and AI session</center></i></p>
         <p>Established 2023 in Lund University, Jacob Vogel and his team focus on  neurobiology and Alzheimer's research by implementing cutting-edge data science methodologies to elucidate neurodegenerative progression and pathogenesis. More specifically, he integrates neuroimaging and multi-omics data and applies supervised and unsupervised models to decipher tau protein distribution.</p>
     </div>
 </div>
