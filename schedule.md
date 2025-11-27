@@ -55,6 +55,6 @@ main_nav: true
 | 15:15–15:45 | Break                                      |                 |
 | 15:45–17:00 | **Session 6: Machine Learning and AI**           | Chair TBA       |
 | *Keynote 15:45–16:10* | *"AI and machine learning for aging and neurodegenerative disease"* | Jacob Vogel (Lund University) |
-|*Keynote Gothenburg 16:10–16:35*| *"Identification of network bottlenecks"* | Fazaleh Hoseini (AI Sweden) |
+|*Keynote Gothenburg 16:10–16:35*| *"When Models Spill Secrets: Auditing Data Leakage"* | Fazeleh Hoseini (AI Sweden) |
 | *16:35-17:00* | *Contributed talks (2 × 12 min)* | TBA             |
 | 17:00–17:15 | Poster prizes and closing remarks                 |                 |
