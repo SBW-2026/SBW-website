@@ -86,7 +86,7 @@ main_nav: true
 
 <div class="speaker-info">
     <div class="speaker-text">
-        <p><strong><center><a href="" target="_blank"> Fazeleh Hoseini, AI Sweden</a></center></strong></p>
+        <p><strong><center><a href="https://se.linkedin.com/in/fazeleh-hoseini-04a299127" target="_blank"> Fazeleh Hoseini, AI Sweden</a></center></strong></p>
       <p><i><center>Keynote speaker for the Machine Learning and AI session</center></i></p>
         <p>Fazeleh Hoseini holds a PhD in Data Science and AI and has a professional background in the automotive sector. In recent years, her work has centered on AI model privacy, where she leads the development of LeakPro, an open-source tool for stress-testing machine learning models and assessing privacy risks. She is also engaged in several national initiatives, including TRE4HealthAI, which investigates Trusted Research Environments for the secondary use of health data within the framework of the European Health Data Space (EHDS).</p>
     </div>
