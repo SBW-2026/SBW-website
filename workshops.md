@@ -12,7 +12,7 @@ main_nav: true
 
 **University of Gothenburg Research Support**
 
-Details coming soon.
+<center>Details coming soon.</center>
 
 </div>
 </div>
@@ -27,7 +27,7 @@ Details coming soon.
 
 **Richard La Bontee (Unit for Academic Language, University of Gothenburg)**
 
-Details coming soon.
+<center>Details coming soon.</center>
 
 </div>
 </div>
@@ -40,7 +40,7 @@ Details coming soon.
 <div class="speaker-info" markdown="1">
 <div class="speaker-text" markdown="1" style="text-align: center;">
 
-Details coming soon.
+<center>Details coming soon.</center>
 
 </div>
 </div>
