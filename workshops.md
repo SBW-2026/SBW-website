@@ -10,7 +10,7 @@ main_nav: true
 <div class="speaker-info" markdown="1">
 <div class="speaker-text" markdown="1">
 
-**Research Support GU**
+<center>**University of Gothenburg Research Support**</center>
 
 Details coming soon.
 
@@ -25,7 +25,7 @@ Details coming soon.
 <div class="speaker-info" markdown="1">
 <div class="speaker-text" markdown="1">
 
-**Richard La Bontee, GU unit for academic language**
+<center>**Richard La Bontee (Unit for Academic Language, University of Gothenburg)**</center>
 
 Details coming soon.
 
@@ -53,7 +53,7 @@ Details coming soon.
 <div class="speaker-info" markdown="1">
 <div class="speaker-text" markdown="1">
 
-**Dr. Kaisa Thorell, University of Gothenburg**
+<center>**Dr. Kaisa Thorell, University of Gothenburg**</center>
 
 We are delighted to announce that Dr. Kaisa Thorell from the University of Gothenburg will host an inspiring workshop on Bacterial Genomics: From Data to Discovery. Dr. Thorell is a SciLifeLab & Wallenberg DDLS Fellow and a leading expert with more than a decade of experience in bacterial genomics, transcriptomics, and metagenomics. Her work brings together experimental microbiology, comparative genomics, bioinformatics, and machine learning to unravel how bacteria evolve, persist, and drive disease.
 
