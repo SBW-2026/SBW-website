@@ -153,7 +153,7 @@ main_nav: true
     <div class="speaker-text">
         <p><strong><center><a href="https://ki.se/en/people/stefanie-prast-nielsen#about-me" target="_blank"> Stefanie Prast-Nielsen, Karolinska Institutet, Sweden</a></center></strong></p>
       <p><i><center>Keynote speaker for the Metagenomics and Microbiology session</center></i></p>
-        <p>Stefanie Prast-Nielsen is an Associate Professor (Docent) in Medical Microbiology and Senior Research Specialist at the Centre for Translational Microbiome Research, Karolinska Institutet. It is evident that diet and health have a strong connection, but there are few examples as good as the link between the ketogenic diet and drug resistant epilepsy. Despite this strong link, the underlying mechanisms remain largely unknown. Professor Stefanie Prast-Nielsen is working to uncover these mechanisms, bringing new insights into how the gut microbiome and metabolism affect brain activity and therapeutic possibilities.</p>
+        <p>Stefanie Prast-Nielsen is Associate Professor (Docent) in Medical Microbiology and Senior Research Specialist in Multiomics, Machine Learning and Data Integration at the Department for Clinical Neuroscience (CNS), Karolinska Institutet. Her main research focus is the microbiota in epilepsy. It is evident that diet and health have a strong connection, but there are few examples as good as the link between the ketogenic diet and drug resistant epilepsy. Despite this strong link, the underlying mechanisms remain largely unknown. Associate Professor Stefanie Prast-Nielsen is working to uncover the role of the microbiota for these mechanisms, bringing new insights into how the gut microbiota and metabolism affect brain function and therapeutic possibilities.</p>
     </div>
 </div>
 
