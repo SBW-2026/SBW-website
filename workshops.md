@@ -10,9 +10,11 @@ main_nav: true
 <div class="speaker-info" markdown="1">
 <div class="speaker-text" markdown="1" style="text-align: center;">
 
-**University of Gothenburg Research Support**
+**Maria Thorson (University of Gothenburg Research Support)**
 
-<center>Details coming soon.</center>
+Maria Thorson, Research Data Advisor at the University of Gothenburg, will lead a practical and engaging workshop on research data management. She has extensive experience from research projects at Chalmers, Region Västra Götaland, and the University of Gothenburg, and works in the university’s data protection group. Maria is also passionate about automation, efficiency in research workflows, and digitalisation.
+
+Good research data management is essential for reproducibility, collaboration, and meeting legal and funder requirements. In this session, we explore how to plan for the full data life cycle, from collection and storage to publishing and long-term preservation. There will be a particular focus on writing effective data management plans (DMPs). We will discuss common challenges in bioinformatics projects, how to apply information-security and ethical requirements, and how the FAIR principles can guide your work. Participants will leave with concrete tools, examples, and templates to support research data management in their own projects
 
 </div>
 </div>
@@ -27,7 +29,7 @@ main_nav: true
 
 **Richard La Bontee (Unit for Academic Language, University of Gothenburg)**
 
-<center>Details coming soon.</center>
+Academic writing and communication are important elements of the research process, but we do not always discuss these practices in explicit, structured terms. This workshop will problematize the genre of academic writing in research and discuss writing processes from the doctoral/postdoc perspective, while offering practical approaches to academic writing in your context.
 
 </div>
 </div>
@@ -37,10 +39,12 @@ main_nav: true
 
 ## Visualizing Science
 
+**Emilia Ståhlbom (Sectra)**
+
 <div class="speaker-info" markdown="1">
 <div class="speaker-text" markdown="1" style="text-align: center;">
 
-<center>Details coming soon.</center>
+In this workshop you will learn the basics of visualization, and how they can help you analyze and communicate your research results. We will cover how to determine what you want to achieve with your visualization, and how to design and create it to reach that goal. We will consider different tools and how AI and LLMs can be used to assist you.
 
 </div>
 </div>
@@ -53,7 +57,7 @@ main_nav: true
 <div class="speaker-info" markdown="1">
 <div class="speaker-text" markdown="1" style="text-align: center;">
 
-**Dr. Kaisa Thorell, University of Gothenburg**
+**Dr. Kaisa Thorell (University of Gothenburg)**
 
 We are delighted to announce that Dr. Kaisa Thorell from the University of Gothenburg will host an inspiring workshop on Bacterial Genomics: From Data to Discovery. Dr. Thorell is a SciLifeLab & Wallenberg DDLS Fellow and a leading expert with more than a decade of experience in bacterial genomics, transcriptomics, and metagenomics. Her work brings together experimental microbiology, comparative genomics, bioinformatics, and machine learning to unravel how bacteria evolve, persist, and drive disease.
 
