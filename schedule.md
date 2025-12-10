@@ -14,9 +14,9 @@ main_nav: true
 |------------|---------------------------------------------------|-----------------|
 | 09:30–10:00 | Registration and coffee                          |                 |
 | 10:00–10:15 | Opening remarks                                  | TBA             |
-| 10:15–11:30 | **Session 1: Cancer Genomics**                   | Chair TBA       |
-| *Keynote 10:15-10:45* | *"A genomics approach for dissecting pathogenic and drug resistance mechanisms in hematological malignancies"*       | Caroline Heckman (University of Helsinki)|
-| *Keynote Gothenburg 10:40-11:05* | *"Clonal hematopoiesis - a precursor for hematological malignancies"* | Abhishek Niroula (University of Gothenburg) | 
+| 10:15–11:30 | **Session 1: Metagenomics & Microbiome**      | Chair TBA       |
+| *Keynote 10:15-10:45* | *"The microbiota-gut-brain axis in epilepsy"*      | Stefanie Prast-Nielsen (Karolinska Institute) |
+| *Keynote Gothenburg 10:40-11:05* | *"The making of a pathogen"* | Astrid von Mentzer (University of Gothenburg)             |
 | *11:05-11:30*  | *Contributed talks (2 × 12 min)* | TBA             |
 | 11:30–12:00 | Break                                            |                 |
 | 12:00–13:15 | **Session 2: Translational Research**                       | Chair TBA       |
@@ -38,19 +38,19 @@ main_nav: true
 | Time        | Activity                                          | Speakers/chairs |
 |-------------|---------------------------------------------------|-----------------|
 | 09:00–11:15 | **Parallel workshops**                            |                 |
-|             | Academic writing                                  |                 |
-|             | Visualising science                               |                 |
-|             | Data management                                   |                 |
-|             | Bacterial Genomics                                |                 |
+|             | Academic writing                                  | Richard La Bontee (Unit for Academic Language, University of Gothenburg) |
+|             | Visualising science                               | Emilia Ståhlbom (Sectra) |
+|             | Data management                                   | Maria Thorson (University of Gothenburg Research Support) |
+|             | Bacterial Genomics                                | Dr. Kaisa Thorell (University of Gothenburg) |
 | 11:15–11:45 | Break                                             |                 |
 | 11:45–13:00 | **Session 4: Multi-omics data integration**             | Chair TBA       |
 | *Keynote 11:45–12:10* | *"Advancing multi-omics data integration through tool development"* | Ana Conesa (CSIC) |
 |*Keynote Gothenburg 12:10–12:35*| *"Integrative Multi-Omics Frameworks for Understanding the Molecular Mechanism of Cardiometabolic Disease Progression"* | Muhammad Arif (University of Gothenburg) |
 | *12:35-13:00* | *Contributed talks (2 × 12 min)* | TBA             |
 | 13:00–14:00 | Lunch                                             |                 |
-| 14:00–15:15 | **Session 5: Metagenomics & Microbiome**      | Chair TBA       |
-| *Keynote 14:00-14:25* | *"The microbiota-gut-brain axis in epilepsy"*      | Stefanie Prast-Nielsen (Karolinska Institute) |
-| *Keynote Gothenburg 14:25-14:50* | *"The making of a pathogen"* | Astrid von Mentzer (University of Gothenburg)             |
+| 14:00–15:15 | **Session 5: Cancer Genomics**                   | Chair TBA       |
+| *Keynote 14:00-14:25* | *"A genomics approach for dissecting pathogenic and drug resistance mechanisms in hematological malignancies"*       | Caroline Heckman (University of Helsinki)|
+| *Keynote Gothenburg 14:25-14:50* | *"Clonal hematopoiesis - a precursor for hematological malignancies"* | Abhishek Niroula (University of Gothenburg) | 
 | *14:50-15:15* | *Contributed talks (2 × 12 min)* | TBA             |
 | 15:15–15:45 | Break                                      |                 |
 | 15:45–17:00 | **Session 6: Machine Learning and AI**           | Chair TBA       |
