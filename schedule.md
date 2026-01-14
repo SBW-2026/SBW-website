@@ -12,10 +12,10 @@ main_nav: true
 {:.schedule-table}
 | Time       | Activity                                          | Speakers/chairs |
 |------------|---------------------------------------------------|-----------------|
-| 09:30–10:00 | Registration and coffee                          |                 |
-| 10:00–10:15 | Opening remarks                                  | TBA             |
+| 09:00–09:45 | Registration and coffee                          |                 |
+| 09:45–10:15 | Opening remarks                                  | TBA             |
 | 10:15–11:30 | **Session 1: Metagenomics & Microbiome**      | Chair TBA       |
-| *Keynote 10:15-10:45* | *"The microbiota-gut-brain axis in epilepsy"*      | Stefanie Prast-Nielsen (Karolinska Institute) |
+| *Keynote 10:15-10:40* | *"The microbiota-gut-brain axis in epilepsy"*      | Stefanie Prast-Nielsen (Karolinska Institute) |
 | *Keynote Gothenburg 10:40-11:05* | *"The making of a pathogen"* | Astrid von Mentzer (University of Gothenburg)             |
 | *11:05-11:30*  | *Contributed talks (2 × 12 min)* | TBA             |
 | 11:30–12:00 | Break                                            |                 |
@@ -25,9 +25,9 @@ main_nav: true
 | *12:50-13:15* | *Contributed talks (2 × 12 min)* | TBA             |
 | 13:15-14:15 | Lunch Break | |
 | 14:15–15:30 | **Session 3: Single-cell Technologies**           | Chair TBA       |
-| *Keynote 14:15-15:05*| *"The dawn of clinical spatial technologies"* | Joakim Lundeberg (KTH Royal Institute of Technology)|
+| *Keynote 14:15-14:40*| *"The dawn of clinical spatial technologies"* | Joakim Lundeberg (KTH Royal Institute of Technology)|
 | *Keynote Gothenburg 14:40-15:05* | *"Integrative single-cell approaches in diabetes"* | Joan Camunas (University of Gothenburg)             |
-| *15:06-15:30* | *Contributed talks (2 × 12 min)* | TBA             |
+| *15:05-15:30* | *Contributed talks (2 × 12 min)* | TBA             |
 | 15:30–16:00 | Break                                            |                 |
 | 16:00–18:00 | Poster session                                   |                 |
 | 18:30–22:00 | Dinner and social event |                 |
