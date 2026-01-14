@@ -8,12 +8,40 @@ main_nav: true
 We thank all the <b> sponsors and other funding sources</b> that made SBW2026 possible:
 
 <div class="image-grid">
-    <a href="https://www.scilifelab.se/">
+  <a href="https://www.scilifelab.se/">
     <img src="{{ site.baseurl }}/assets/sponsors/SciLifeLab_Logotype_Green_POS.png" alt="SciLifeLab">
-    </a>
-    <a href="https://www.nordic-compbio.org/">
+  </a>
+
+  <a href="https://kaw.wallenberg.org/">
+    <img src="{{ site.baseurl }}/assets/sponsors/wallenberg_foundation.jpg" alt="Knut och Alice Wallenberg Foundation">
+  </a>
+
+  <a href="https://www.nordic-compbio.org/">
     <img src="{{ site.baseurl }}/assets/sponsors/NordicCompBio.png" alt="NordicCompBio">
-    </a>
+  </a>
+
+  <a href="https://www.gu.se/core-facilities">
+    <img src="{{ site.baseurl }}/assets/sponsors/GU_core_facilities.png" alt="GU Core Facilities">
+  </a>
+
+  <a href="https://nbis.se/">
+    <img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS">
+  </a>
+</div>
+
+<br><br><br>
+
+<div class="image-grid">
+  <a href="https://bionordika.se/">
+    <img src="{{ site.baseurl }}/assets/sponsors/BioNordika.png" alt="BioNordika">
+  </a>
+  <a href="https://nanoporetech.com/">
+    <img src="{{ site.baseurl }}/assets/sponsors/nanopore.png" alt="Nanopore">
+  </a>
+
+  <a href="https://www.novogene.com/eu-en/">
+    <img src="{{ site.baseurl }}/assets/sponsors/novogene.png" alt="Novogene">
+  </a>
 </div>
 
 <br>
@@ -33,7 +61,7 @@ We thank all the <b> sponsors and other funding sources</b> that made SBW2026 po
 
 <h4>Sponsorship</h4>
 
-This partnership not only underscores our events prestige but also offers our sponsors unparalleled access to a diverse and engaged community at the forefront of bioinformatics research and development.
+This partnership not only underscores our event's prestige but also offers our sponsors unparalleled access to a diverse and engaged community at the forefront of bioinformatics research and development.
 As a sponsor, you:
 <ul>
     <li>Contribute to increased collaboration among scientists from higher education institutions and industrial organizations, including startups across the Nordics.</li>
