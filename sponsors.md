@@ -7,41 +7,41 @@ main_nav: true
 
 We thank all the <b> sponsors and other funding sources</b> that made SBW2026 possible:
 
-<div class="image-grid">
-  <a href="https://www.scilifelab.se/">
-    <img src="{{ site.baseurl }}/assets/sponsors/SciLifeLab_Logotype_Green_POS.png" alt="SciLifeLab">
-  </a>
-
-  <a href="https://kaw.wallenberg.org/">
-    <img src="{{ site.baseurl }}/assets/sponsors/wallenberg_foundation.jpg" alt="Knut och Alice Wallenberg Foundation">
-  </a>
-
-  <a href="https://www.nordic-compbio.org/">
-    <img src="{{ site.baseurl }}/assets/sponsors/NordicCompBio.png" alt="NordicCompBio">
-  </a>
-
-  <a href="https://www.gu.se/core-facilities">
-    <img src="{{ site.baseurl }}/assets/sponsors/GU_core_facilities.png" alt="GU Core Facilities">
-  </a>
-
-  <a href="https://nbis.se/">
-    <img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS">
-  </a>
+<div class="sponsors-section">
+  <div class="image-grid">
+    <a href="https://www.cancerfonden.se/" class="grid-span-2">
+      <img src="{{ site.baseurl }}/assets/sponsors/cancerfonden.png" alt="Cancerfonden">
+    </a>
+    <a href="https://www.scilifelab.se/">
+      <img src="{{ site.baseurl }}/assets/sponsors/SciLifeLab_Logotype_Green_POS.png" alt="SciLifeLab">
+    </a>
+    <a href="https://www.wallenberg.com/">
+      <img src="{{ site.baseurl }}/assets/sponsors/wallenberg_foundation.jpg" alt="Knut och Alice Wallenberg Foundation">
+    </a>
+    <a href="https://www.nordic-compbio.org/">
+      <img src="{{ site.baseurl }}/assets/sponsors/NordicCompBio.png" alt="NordicCompBio">
+    </a>
+    <a href="https://www.gu.se/core-facilities">
+      <img src="{{ site.baseurl }}/assets/sponsors/GU_core_facilities.png" alt="GU Core Facilities">
+    </a>
+    <a href="https://nbis.se/">
+      <img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS">
+    </a>
+  </div>
 </div>
 
-<br><br><br>
-
-<div class="image-grid">
-  <a href="https://bionordika.se/">
-    <img src="{{ site.baseurl }}/assets/sponsors/BioNordika.png" alt="BioNordika">
-  </a>
-  <a href="https://nanoporetech.com/">
-    <img src="{{ site.baseurl }}/assets/sponsors/nanopore.png" alt="Nanopore">
-  </a>
-
-  <a href="https://www.novogene.com/eu-en/">
-    <img src="{{ site.baseurl }}/assets/sponsors/novogene.png" alt="Novogene">
-  </a>
+<div class="sponsors-section">
+  <div class="image-grid">
+    <a href="https://bionordika.se/">
+      <img src="{{ site.baseurl }}/assets/sponsors/BioNordika.png" alt="BioNordika">
+    </a>
+    <a href="https://nanoporetech.com/">
+      <img src="{{ site.baseurl }}/assets/sponsors/nanopore.png" alt="Nanopore">
+    </a>
+    <a href="https://www.novogene.com/eu-en/">
+      <img src="{{ site.baseurl }}/assets/sponsors/novogene.png" alt="Novogene">
+    </a>
+  </div>
 </div>
 
 <br>
