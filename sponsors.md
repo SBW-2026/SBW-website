@@ -44,6 +44,9 @@ We thank all the <b> sponsors and other funding sources</b> that made SBW2026 po
     <a href="https://corporate.thermofisher.com/us/en/index.html">
     <img src="{{ site.baseurl }}/assets/sponsors/thermo-fisher-scientific.jpg" alt="ThermoFisher scientific">
     </a>
+    <a href="https://eu.idtdna.com/page/">
+    <img src="{{ site.baseurl }}/assets/sponsors/IDT.png" alt="Integrated DNA Technologies">
+    </a>
   </div>
 </div>
 
