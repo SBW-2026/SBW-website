@@ -42,10 +42,13 @@ We thank all the <b> sponsors and other funding sources</b> that made SBW2026 po
       <img src="{{ site.baseurl }}/assets/sponsors/novogene.png" alt="Novogene">
     </a>
     <a href="https://corporate.thermofisher.com/us/en/index.html">
-    <img src="{{ site.baseurl }}/assets/sponsors/thermo-fisher-scientific.jpg" alt="ThermoFisher scientific">
+      <img src="{{ site.baseurl }}/assets/sponsors/thermo-fisher-scientific.jpg" alt="ThermoFisher scientific">
     </a>
     <a href="https://eu.idtdna.com/page/">
-    <img src="{{ site.baseurl }}/assets/sponsors/IDT.png" alt="Integrated DNA Technologies">
+      <img src="{{ site.baseurl }}/assets/sponsors/IDT.png" alt="Integrated DNA Technologies">
+    </a>
+    <a href="https://olink.com/">
+      <img src="{{ site.baseurl }}/assets/sponsors/Olink.png" alt="Olink">
     </a>
   </div>
 </div>
