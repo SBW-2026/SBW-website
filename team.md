@@ -25,6 +25,26 @@ main_nav: true
 
 <br>
 
+
+<!-- member: -->
+
+<div style="display: flex;align-items: center;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
+        <!-- TODO: Replace placeholder with actual photo when uploaded -->
+        <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
+        <!-- <img src="{{ site.baseurl }}/assets/team/Agata_Marchi.jpg" alt="Image" style="width: 100%;"> -->
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <p><strong>Agata Marchi</strong> <br>
+        Doctoral Student <br>
+        Chalmers tekniska högskola <br>
+        Systems Biology, Life Sciences <br>
+        </p>
+    </div>
+</div>
+
+<br>
+
 <!-- member: -->
 
 <div style="display: flex;align-items: center;">
@@ -97,6 +117,25 @@ main_nav: true
         University of Gothenburg <br>
         Department of Microbiology and Immunology <br>
         Linkedin: <a href="https://www.linkedin.com/in/biel-garcias-319326101/" target="_blank">@Biel Garcias</a>
+        </p>
+    </div>
+</div>
+
+<br>
+
+<!-- member: -->
+
+<div style="display: flex;align-items: center;">
+    <div style="flex: 0 0 200px; padding-right: 10px;">
+        <!-- TODO: Replace placeholder with actual photo when uploaded -->
+        <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
+        <!-- <img src="{{ site.baseurl }}/assets/team/Cajsa_Wreth.jpg" alt="Image" style="width: 100%;"> -->
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <p><strong>Cajsa Wreth</strong> <br>
+        Master Student <br>
+        University of Gothenburg <br>
+        Department of Medical Biochemistry and Cell biology <br>
         </p>
     </div>
 </div>
@@ -276,9 +315,7 @@ main_nav: true
 
 <div style="display: flex;align-items: center;">
     <div style="flex: 0 0 200px; padding-right: 10px;">
-        <!-- TODO: Replace placeholder with actual photo when uploaded -->
-        <img src="{{ site.baseurl }}/assets/icons/user.png" alt="Image" style="width: 100%;">
-        <!-- <img src="{{ site.baseurl }}/assets/team/Tobias_Osterlund.jpg" alt="Image" style="width: 100%;"> -->
+        <img src="{{ site.baseurl }}/assets/team/Tobias_Osterlund.jpg" alt="Image" style="width: 100%;">
     </div>
     <div style="flex: 1; padding-left: 10px;">
         <p><strong>Tobias Österlund</strong> <br>
