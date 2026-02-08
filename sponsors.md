@@ -35,9 +35,6 @@ We thank all the <b> sponsors and other funding sources</b> that made SBW2026 po
     <a href="https://bionordika.se/">
       <img src="{{ site.baseurl }}/assets/sponsors/BioNordika.png" alt="BioNordika">
     </a>
-    <a href="https://nanoporetech.com/">
-      <img src="{{ site.baseurl }}/assets/sponsors/nanopore.png" alt="Nanopore">
-    </a>
     <a href="https://www.novogene.com/eu-en/">
       <img src="{{ site.baseurl }}/assets/sponsors/novogene.png" alt="Novogene">
     </a>
@@ -49,6 +46,12 @@ We thank all the <b> sponsors and other funding sources</b> that made SBW2026 po
     </a>
     <a href="https://olink.com/">
       <img src="{{ site.baseurl }}/assets/sponsors/Olink.png" alt="Olink">
+    </a>
+    <a href="https://nanoporetech.com/">
+      <img src="{{ site.baseurl }}/assets/sponsors/nanopore.png" alt="Nanopore">
+    </a>
+    <a href="https://techtum.se/">
+      <img src="{{ site.baseurl }}/assets/sponsors/techtum-logotype.svg" alt="Techtum">
     </a>
   </div>
 </div>
