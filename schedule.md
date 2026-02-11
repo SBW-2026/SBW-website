@@ -25,24 +25,25 @@ main_nav: true
 | *13:03-13:15* | T4 *"Deciphering Heterogeneity in Acute Myeloid Leukemia to Understand the Mechanisms of Disease Progression and Immune Interactions Using Single-Cell RNA-Sequencing"* | Sadiksha Adhikari (University of Helsinki)|
 | 13:15-14:15 | Lunch Break                                      |                 |
 | 14:15–15:30 | **Session 3: Single-cell Technologies**          | Chair TBA       |
-| *14:15-14:27* | *Sponsor talk*               | DDLS            |
-| *Keynote 14:28-14:53*| *"The dawn of clinical spatial technologies"* | Joakim Lundeberg (KTH Royal Institute of Technology)|
-| *Keynote Gothenburg 14:53-15:18* | *"Integrative single-cell approaches in diabetes"* | Joan Camunas (University of Gothenburg) |
-| *15:18-15:30* | T5 *"NOX2-driven macrophage reprogramming enhances breast cancer metastasis"* | Mustafa Kaya (University of Gothenburg)|
-| 15:30–16:00 | Break with fika                                  |                 |
-| 16:00–18:00 | Poster session                                   |                 |
-| 18:30–22:00 | Mingle dinner and social event                   |                 |
+| *Keynote 14:15-14:40*| *"The dawn of clinical spatial technologies"* | Joakim Lundeberg (KTH Royal Institute of Technology)|
+| *Keynote Gothenburg 14:40-15:05* | *"Integrative single-cell approaches in diabetes"* | Joan Camunas (University of Gothenburg) |
+| *15:05-15:17* | T5 *"NOX2-driven macrophage reprogramming enhances breast cancer metastasis"* | Mustafa Kaya (University of Gothenburg)|
+| *15:18-15:30* | *DDLS*                                         | Margit Mahlapuu |
+| 15:30–16:00 | Group photo and break with fika                  |                 |
+| 16:00–17:30 | Poster session                                   |                 |
+| 17:30–22:00 | Mingle dinner and social event                   |                 |
 
 ### Day 2 — 13 March 2026
 
 {:.schedule-table}
 | Time        | Activity                                          | Speakers/chairs |
 |-------------|---------------------------------------------------|-----------------|
+| 08:30–09:00 | Welcome coffee                                    |                 |
 | 09:00–11:15 | **Parallel workshops**                            |                 |
-|             | Academic writing                                  | Richard La Bontee (Unit for Academic Language, University of Gothenburg) |
+|             | Academic writing                                  | Richard La Bontee (University of Gothenburg) |
 |             | Visualising science                               | Emilia Ståhlbom (Sectra) |
-|             | Data management                                   | Maria Thorson (University of Gothenburg Research Support) |
-|             | Bacterial Genomics                                | Dr. Kaisa Thorell (University of Gothenburg) |
+|             | Data management                                   | Maria Thorson (University of Gothenburg) |
+|             | Bacterial Genomics                                | Kaisa Thorell (University of Gothenburg) |
 | 11:15–11:45 | Break with fika                                   |                 |
 | 11:45–13:00 | **Session 4: Multi-omics data integration**       | Chair TBA       |
 | *Keynote 11:45–12:10* | *"Advancing multi-omics data integration through tool development"* | Ana Conesa (CSIC) |
