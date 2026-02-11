@@ -21,7 +21,7 @@ main_nav: true
 | 12:00–13:15 | **Session 2: Translational Research**            | Chair TBA       |
 | *Keynote 12:00–12:25* | *"Accelerating rare disease diagnostics through multidisciplinary collaboration"* | Ann Nordgren (Karolinska Institute and University of Gothenburg) |
 | *Keynote Gothenburg 12:25–12:50*| *"Genomic insights into small intestine neuroendocrine tumours"* | Erik Larsson Lekholm (University of Gothenburg) |
-| *12:50-13:02* | T3 *"Biomarkers for progression allowing individualized management of patients with non-functioning pituitary tumors"* | Medha Suman (University of Gothenburg)|
+| *12:50-13:02* | T3 | TBA |
 | *13:03-13:15* | T4 *"Deciphering Heterogeneity in Acute Myeloid Leukemia to Understand the Mechanisms of Disease Progression and Immune Interactions Using Single-Cell RNA-Sequencing"* | Sadiksha Adhikari (University of Helsinki)|
 | 13:15-14:15 | Lunch Break                                      |                 |
 | 14:15–15:30 | **Session 3: Single-cell Technologies**          | Chair TBA       |
