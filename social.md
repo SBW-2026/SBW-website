@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Social event"
-permalink: /practical/
+permalink: /social/
 main_nav: true
 ---
 
