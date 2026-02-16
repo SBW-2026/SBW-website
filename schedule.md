@@ -15,19 +15,19 @@ main_nav: true
 | 10:15–11:30 | **Session 1: Metagenomics & Microbiome**         | Tânia Carneiro Peniche, Biel Garcias Puigserver |
 | *Keynote 10:15-10:40* | *"The microbiota-gut-brain axis in epilepsy"*      | Stefanie Prast-Nielsen (Karolinska Institute) |
 | *Keynote Gothenburg 10:40-11:05* | *"The making of a pathogen"* | Astrid von Mentzer (University of Gothenburg) |
-| *11:05-11:17*  | T1 *"Regulation of a tripartite Toxin Antitoxin system in the honeybee intestinal bacteria Apilactobacillus kunkeei"*| Héléna Vassilieff (Uppsala University)|
-| *11:18-11:30*  | T2 *"STRIKE-T2D: Strain-level Interpretation of Key Effectors in Type 2 Diabetes"* | Chuqing Sun (University of Gothenburg)|
+| *11:05-11:17*  | T01 *"Regulation of a tripartite Toxin Antitoxin system in the honeybee intestinal bacteria Apilactobacillus kunkeei"*| Héléna Vassilieff (Uppsala University)|
+| *11:18-11:30*  | T02 *"STRIKE-T2D: Strain-level Interpretation of Key Effectors in Type 2 Diabetes"* | Chuqing Sun (University of Gothenburg)|
 | 11:30–12:00 | Break                                            |                 |
 | 12:00–13:15 | **Session 2: Translational Research**            | Linnéa Ögren, Markus Lindberg |
 | *Keynote 12:00–12:25* | *"Accelerating rare disease diagnostics through multidisciplinary collaboration"* | Ann Nordgren (Karolinska Institute and University of Gothenburg) |
 | *Keynote Gothenburg 12:25–12:50*| *"Genomic insights into small intestine neuroendocrine tumours"* | Erik Larsson Lekholm (University of Gothenburg) |
-| *12:50-13:02* | T3 | TBA |
-| *13:03-13:15* | T4 *"Deciphering Heterogeneity in Acute Myeloid Leukemia to Understand the Mechanisms of Disease Progression and Immune Interactions Using Single-Cell RNA-Sequencing"* | Sadiksha Adhikari (University of Helsinki)|
+| *12:50-13:02* | T03 *“Plasma Protein Biomarkers of Treatment-Induced Brain Injury in Children with Primary Brain Tumors”* | Dea Gogishvili (Uppsala University) |
+| *13:03-13:15* | T04 *"Deciphering Heterogeneity in Acute Myeloid Leukemia to Understand the Mechanisms of Disease Progression and Immune Interactions Using Single-Cell RNA-Sequencing"* | Sadiksha Adhikari (University of Helsinki)|
 | 13:15-14:15 | Lunch Break                                      |                 |
 | 14:15–15:30 | **Session 3: Single-cell Technologies**          | Hana Komic, Alice Schiller |
 | *Keynote 14:15-14:40*| *"The dawn of clinical spatial technologies"* | Joakim Lundeberg (KTH Royal Institute of Technology)|
 | *Keynote Gothenburg 14:40-15:05* | *"Integrative single-cell approaches in diabetes"* | Joan Camunas (University of Gothenburg) |
-| *15:05-15:17* | T5 *"NOX2-driven macrophage reprogramming enhances breast cancer metastasis"* | Mustafa Kaya (University of Gothenburg)|
+| *15:05-15:17* | T05 *"NOX2-driven macrophage reprogramming enhances breast cancer metastasis"* | Mustafa Kaya (University of Gothenburg)|
 | *15:18-15:30* | *DDLS*                                         | Margit Mahlapuu (University of Gothenburg) |
 | 15:30–16:00 | Group photo and break with fika                  |                 |
 | 16:00–17:30 | Poster session                                   |                 |
@@ -48,14 +48,14 @@ main_nav: true
 | 11:45–13:00 | **Session 4: Multi-omics data integration**       | Adam Dziulko, Klara Esbo |
 | *Keynote 11:45–12:10* | *"Advancing multi-omics data integration through tool development"* | Ana Conesa (CSIC) |
 | *Keynote Gothenburg 12:10–12:35*| *"Integrative Multi-Omics Frameworks for Understanding the Molecular Mechanism of Cardiometabolic Disease Progression"* | Muhammad Arif (University of Gothenburg) |
-| *12:35-12:47* | T6 *"A bimodal framework for reliable and accessible acute leukemia machine learning classification using gene expression and DNA methylation data"* | Mariya Lysenkova Wiklander (Uppsala University) |
-| *12:48-13:00* | T7 *"Sex chromosomes from raw data, and the tools to get you there"* | Nikos Tsardakas Renhuldt (Lund University) |
+| *12:35-12:47* | T06 *"A bimodal framework for reliable and accessible acute leukemia machine learning classification using gene expression and DNA methylation data"* | Mariya Lysenkova Wiklander (Uppsala University) |
+| *12:48-13:00* | T07 *"Sex chromosomes from raw data, and the tools to get you there"* | Nikos Tsardakas Renhuldt (Lund University) |
 | 13:00–14:00 | Lunch                                             |                 |
 | 14:00–15:15 | **Session 5: Cancer Genomics**                    | Tobias Österlund, Danel Olaverri Mendizabal |
 | *Keynote 14:00-14:25* | *"A genomics approach for dissecting pathogenic and drug resistance mechanisms in hematological malignancies"*       | Caroline Heckman (University of Helsinki)|
 | *Keynote Gothenburg 14:25-14:50* | *"Clonal hematopoiesis - a precursor for hematological malignancies"* | Abhishek Niroula (University of Gothenburg) | 
-| *14:50-15:02* | T8 *”Plasma Protein Biomarkers of Treatment-Induced Brain Injury inChildren with Primary Brain Tumors: Early Findings from the BiomarkCBT Study”* | Dea Gogishvili (Uppsala University) |
-| *15:03-15:15* | T9 *”Read-Level Methylation Analysis of cfDNA Using Targeted EM-seq for CNS Tumor Classification”* | Ryan SY Kwan (University of Gothenburg) |
+| *14:50-15:02* | T08 *“TrackTx: Statistical Mapping of Functional Genomic Landscapes Through Divergent Transcription Analysis”* | Serhat Aktay (KTH Royal Institute of Technology) |
+| *15:03-15:15* | T09 *”Read-Level Methylation Analysis of cfDNA Using Targeted EM-seq for CNS Tumor Classification”* | Ryan SY Kwan (University of Gothenburg) |
 | 15:15–15:45 | Break with fika                                   |                 |
 | 15:45–17:00 | **Session 6: Machine Learning and AI**            | Alan Bäckerholm, Kerryn Elliott |
 | *Keynote 15:45–16:10* | *"AI and machine learning for aging and neurodegenerative disease"* | Jacob Vogel (Lund University) |
