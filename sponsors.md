@@ -27,6 +27,9 @@ We thank all the <b> sponsors and other funding sources</b> that made SBW2026 po
     <a href="https://nbis.se/">
       <img src="{{ site.baseurl }}/assets/sponsors/NBIS.svg" alt="NBIS">
     </a>
+    <a href="https://www.akademiskahus.se/">
+      <img src="{{ site.baseurl }}/assets/sponsors/akademiska_hus.jpg" alt="Akademiska Hus">
+    </a>
   </div>
 </div>
 
