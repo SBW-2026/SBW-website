@@ -28,7 +28,7 @@ main_nav: true
 | *Keynote 14:15-14:40*| *"The dawn of clinical spatial technologies"* | Joakim Lundeberg (KTH Royal Institute of Technology)|
 | *Keynote Gothenburg 14:40-15:05* | *"Integrative single-cell approaches in diabetes"* | Joan Camunas (University of Gothenburg) |
 | *15:05-15:17* | T05 *"NOX2-driven macrophage reprogramming enhances breast cancer metastasis"* | Mustafa Kaya (University of Gothenburg)|
-| *15:18-15:30* | *DDLS - Approaching the Halfway Mark*                                         | Margit Mahlapuu (University of Gothenburg) |
+| *15:18-15:30* | *DDLS - Approaching the Halfway Mark*                                         | Margit Mahlapuu (DDLS Cell & Molecular Biology Research Area Lead, University of Gothenburg) |
 | 15:30–16:00 | Group photo and break with fika                  |                 |
 | 16:00–17:30 | Poster session                                   |                 |
 | 17:30–22:00 | Mingle dinner and social event                   |                 |
