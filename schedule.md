@@ -40,10 +40,10 @@ main_nav: true
 |-------------|---------------------------------------------------|-----------------|
 | 08:30–09:00 | Welcome coffee                                    |                 |
 | 09:00–11:15 | **Parallel workshops**                            |                 |
-|             | Academic writing                                  | Richard La Bontee (University of Gothenburg) |
-|             | Visualising science                               | Emilia Ståhlbom (Sectra) |
-|             | Data management                                   | Maria Thorson (University of Gothenburg) |
-|             | Bacterial Genomics                                | Kaisa Thorell (University of Gothenburg) |
+|             | Academic writing<br>Antarktis                     | Richard La Bontee (University of Gothenburg) |
+|             | Visualising science<br>Europa                     | Emilia Ståhlbom (Sectra) |
+|             | Data management<br>Wallenbergsalen                | Maria Thorson (University of Gothenburg) |
+|             | Bacterial Genomics<br>Syd Amerika                 | Kaisa Thorell (University of Gothenburg) |
 | 11:15–11:45 | Break with fika                                   |                 |
 | 11:45–13:00 | **Session 4: Multi-omics data integration**       | Adam Dziulko, Klara Esbo |
 | *Keynote 11:45–12:10* | *"Advancing multi-omics data integration through tool development"* | Ana Conesa (CSIC) |
