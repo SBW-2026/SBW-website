@@ -52,7 +52,7 @@ main_nav: true
 | *12:48-13:00* | T07 *"Sex chromosomes from raw data, and the tools to get you there"* | Nikos Tsardakas Renhuldt (Lund University) |
 | 13:00–14:00 | Lunch                                             |                 |
 | 14:00–15:15 | **Session 5: Cancer Genomics**                    | Tobias Österlund, Danel Olaverri Mendizabal |
-| *Keynote 14:00-14:25* | *"A genomics approach for dissecting pathogenic and drug resistance mechanisms in hematological malignancies"*       | Caroline Heckman (University of Helsinki)|
+| *Keynote 14:00-14:25* | *"A multi-omics approach for dissecting pathogenic and drug resistance mechanisms in hematological malignancies"*       | Caroline Heckman (University of Helsinki)|
 | *Keynote Gothenburg 14:25-14:50* | *"Clonal hematopoiesis - a precursor for hematological malignancies"* | Abhishek Niroula (University of Gothenburg) | 
 | *14:50-15:02* | T08 *“TrackTx: Statistical Mapping of Functional Genomic Landscapes Through Divergent Transcription Analysis”* | Serhat Aktay (KTH Royal Institute of Technology) |
 | *15:03-15:15* | T09 *”Read-Level Methylation Analysis of cfDNA Using Targeted EM-seq for CNS Tumor Classification”* | Ryan SY Kwan (University of Gothenburg) |
